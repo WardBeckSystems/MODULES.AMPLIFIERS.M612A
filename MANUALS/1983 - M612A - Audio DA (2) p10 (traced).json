@@ -1,0 +1,103 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 313.9, 426.8],
+ "outlines": {
+  "line": {"rings": 448, "straight": {"n": 5581, "mm": 12029.2}, "curved": {"n": 1067, "mm": 1797.3}},
+  "text": {"rings": 106, "straight": {"n": 890, "mm": 1170.1}, "curved": {"n": 217, "mm": 361.2}}
+ },
+ "circles": [
+  {"c": [183.9, 179.6], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [255.9, 187.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [255.8, 199.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [54.2, 175.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [255.8, 211.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [54.7, 163.3], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [147.9, 357.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [54.1, 187.5], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [54.1, 200.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.3, 240.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9}
+ ],
+ "boxes": [
+  {"mm": [219.4, 246.8, 234.9, 252.7], "w": 15.5, "h": 5.9, "from": "ring"},
+  {"mm": [219.4, 234.0, 234.7, 239.6], "w": 15.3, "h": 5.6, "from": "ring"},
+  {"mm": [103.4, 222.6, 118.5, 227.8], "w": 15.1, "h": 5.2, "from": "ring"},
+  {"mm": [98.0, 222.6, 102.6, 227.8], "w": 4.5, "h": 5.2, "from": "ring"},
+  {"mm": [219.4, 221.9, 235.1, 227.6], "w": 15.7, "h": 5.6, "from": "ring"},
+  {"mm": [235.8, 221.8, 239.9, 227.6], "w": 4.1, "h": 5.7, "from": "ring"},
+  {"mm": [98.0, 210.1, 102.6, 215.5], "w": 4.5, "h": 5.4, "from": "ring"},
+  {"mm": [103.4, 210.1, 118.5, 215.5], "w": 15.1, "h": 5.4, "from": "ring"},
+  {"mm": [219.4, 209.4, 234.9, 215.5], "w": 15.5, "h": 6.0, "from": "ring", "words": ["+-.,J.I-"]},
+  {"mm": [235.8, 209.4, 239.9, 215.3], "w": 4.1, "h": 5.8, "from": "ring"},
+  {"mm": [98.2, 197.5, 102.6, 202.9], "w": 4.3, "h": 5.4, "from": "ring"},
+  {"mm": [103.4, 197.5, 118.5, 202.7], "w": 15.1, "h": 5.2, "from": "ring"},
+  {"mm": [219.4, 197.0, 234.9, 202.3], "w": 15.5, "h": 5.3, "from": "ring"},
+  {"mm": [98.2, 186.3, 102.6, 190.9], "w": 4.4, "h": 4.5, "from": "ring"},
+  {"mm": [103.4, 186.3, 118.5, 190.9], "w": 15.1, "h": 4.5, "from": "ring"},
+  {"mm": [235.8, 185.7, 239.9, 190.6], "w": 4.1, "h": 4.9, "from": "ring"},
+  {"mm": [219.4, 185.7, 234.9, 190.4], "w": 15.5, "h": 4.7, "from": "ring"},
+  {"mm": [98.5, 174.2, 102.8, 179.0], "w": 4.4, "h": 4.7, "from": "ring"},
+  {"mm": [103.3, 174.0, 118.5, 179.0], "w": 15.3, "h": 5.0, "from": "ring"},
+  {"mm": [219.6, 167.1, 223.1, 179.0], "w": 3.5, "h": 11.9, "from": "ring"},
+  {"mm": [98.5, 161.3, 102.8, 166.2], "w": 4.3, "h": 5.0, "from": "ring"},
+  {"mm": [103.4, 161.3, 118.5, 166.2], "w": 15.1, "h": 5.0, "from": "ring"},
+  {"mm": [219.6, 160.8, 223.0, 166.2], "w": 3.5, "h": 5.4, "from": "ring"},
+  {"mm": [223.9, 160.8, 235.1, 166.0], "w": 11.2, "h": 5.2, "from": "ring"},
+  {"mm": [235.7, 161.1, 239.9, 166.0], "w": 4.2, "h": 5.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [35.0, 413.0, 87.9, 418.5], "text": "WAR D-BECK"},
+   {"mm": [107.1, 413.0, 151.8, 418.5], "text": "TEMS TO."},
+   {"mm": [131.9, 367.2, 228.6, 372.5], "text": "AND P2 CONNECTOR LAYOUTS"},
+   {"mm": [107.7, 353.9, 149.4, 359.1], "text": "M6 12A AUDIO"},
+   {"mm": [160.0, 353.9, 240.3, 359.1], "text": "IS TRI BU IO AMPLIF IER"},
+   {"mm": [54.2, 256.1, 79.7, 261.3], "text": "CHASSIS"},
+   {"mm": [215.0, 205.3, 278.5, 214.2], "text": "+-.,J.I- OUTPUT"},
+   {"mm": [178.1, 89.0, 257.8, 94.2], "text": "AMPLI FIER ELECTRICAL"},
+   {"mm": [185.0, 82.5, 250.7, 87.8], "text": "GROUND RETURN TO"},
+   {"mm": [178.8, 75.8, 258.0, 81.1], "text": "INSULATED GROUND BUS"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [208.8, 253.1], "r": 1.3, "lines": 0},
+  {"c": [255.8, 249.5], "r": 1.2, "lines": 0},
+  {"c": [183.7, 240.5], "r": 1.4, "lines": 0},
+  {"c": [129.0, 228.2], "r": 1.4, "lines": 0},
+  {"c": [153.4, 216.3], "r": 1.4, "lines": 0},
+  {"c": [183.7, 216.3], "r": 1.4, "lines": 0},
+  {"c": [129.1, 203.4], "r": 1.4, "lines": 0},
+  {"c": [129.4, 167.0], "r": 1.5, "lines": 0},
+  {"c": [183.9, 166.7], "r": 1.4, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–427 mm up",
+  "- **Outlines:** line 448 rings, 5,581 straight (12,029 mm) / 1,067 curved (1,797 mm); text 106 rings, 890 straight (1,170 mm) / 217 curved (361 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 2.3 @ (183.9, 179.6), r 2.2 @ (255.9, 187.9), r 2.2 @ (255.8, 199.5), r 2.2 @ (54.2, 175.8)",
+  "- **Closed boxes:** 25; named: +-.,J.I-",
+  "- **Dots (junctions):** 9",
+  "- **Words (OCR):** 33 in 14 lines: WAR D-BECK · TEMS TO. · AND P2 CONNECTOR LAYOUTS · M6 12A AUDIO · IS TRI BU IO AMPLIF IER · CHASSIS · +-.,J.I- OUTPUT · AMPLI FIER ELECTRICAL · GROUND RETURN TO · INSULATED GROUND BUS · ps · BS"
+ ]
+}

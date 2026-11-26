@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 20.7, 310.8, 426.4],
+ "outlines": {
+  "line": {"rings": 25, "straight": {"n": 672, "mm": 2892.4}, "curved": {"n": 70, "mm": 111.1}},
+  "text": {"rings": 84, "straight": {"n": 738, "mm": 965.0}, "curved": {"n": 181, "mm": 282.8}},
+  "tb": {"rings": 9, "straight": {"n": 28, "mm": 19.8}, "curved": {"n": 9, "mm": 9.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [29.6, 413.4, 147.7, 421.1], "text": "WARD-BECK systems LTD;"},
+   {"mm": [104.7, 227.8, 234.0, 235.4], "text": "SA14-065 AUDI0 AMPLIFIER ASSEMBLY"},
+   {"mm": [248.3, 50.7, 267.7, 57.7], "text": "ISSUE"},
+   {"mm": [248.3, 37.1, 282.2, 43.6], "text": "JUNE 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [22.9, 42.1, 274.3, 429.6],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK systems LTD;", "SA14-065 AUDI0 AMPLIFIER ASSEMBLY", "ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 21–426 mm up",
+  "- **Outlines:** line 25 rings, 672 straight (2,892 mm) / 70 curved (111 mm); text 84 rings, 738 straight (965 mm) / 181 curved (283 mm); tb 9 rings, 28 straight (19.8 mm) / 9 curved (9.4 mm)",
+  "- **Words (OCR):** 8 in 4 lines: WARD-BECK systems LTD; · SA14-065 AUDI0 AMPLIFIER ASSEMBLY · ISSUE · JUNE 1983",
+  "- **Title block:** (23, 42)–(274, 430) mm: WARD-BECK systems LTD; · SA14-065 AUDI0 AMPLIFIER ASSEMBLY · ISSUE"
+ ]
+}

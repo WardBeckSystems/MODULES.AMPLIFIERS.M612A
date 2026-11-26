@@ -1,0 +1,102 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/19xx - 8-117-02-001.jpg",
+ "version": 1,
+ "trace": "_traces/1be6a82207f2935c.svg",
+ "sheet": {
+  "number": "B 8-117-02-001",
+  "title": "",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [706, 900],
+  "mm": [338.7, 431.8],
+  "mm_per_px": 0.47978
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.5, 334.9, 431.8],
+ "outlines": {
+  "line": {"rings": 102, "straight": {"n": 1623, "mm": 4099.4}, "curved": {"n": 290, "mm": 766.6}},
+  "text": {"rings": 59, "straight": {"n": 436, "mm": 883.4}, "curved": {"n": 126, "mm": 387.6}},
+  "tb": {"rings": 2, "straight": {"n": 25, "mm": 140.5}, "curved": {"n": 3, "mm": 13.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2256, "straight": {"n": 2370, "mm": 2884.3}, "curved": {"n": 26, "mm": 65.3}},
+   "text": {"paths": 614, "straight": {"n": 713, "mm": 731.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1, "straight": {"n": 9, "mm": 75.5}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 31,
+  "orientation": {"horizontal": {"n": 824, "mm": 1151.6}, "vertical": {"n": 837, "mm": 964.1}, "diagonal": {"n": 1431, "mm": 1575.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [28.7, 197.8], "r": 5.8, "kind": "circle", "span": 342, "from": ["centre line"]},
+  {"c": [44.0, 250.2], "r": 2.3, "kind": "arc", "span": 139, "from": ["centre line"], "start": 249},
+  {"c": [309.4, 13.6], "r": 2.3, "kind": "arc", "span": 163, "from": ["centre line"], "start": 50},
+  {"c": [298.9, 13.2], "r": 2.0, "kind": "arc", "span": 240, "from": ["centre line"], "start": 20},
+  {"c": [299.0, 15.4], "r": 1.9, "kind": "arc", "span": 168, "from": ["centre line"], "start": 214},
+  {"c": [314.9, 12.6], "r": 1.7, "kind": "arc", "span": 260, "from": ["centre line"], "start": 114}
+ ],
+ "boxes": [
+  {"mm": [54.2, 252.4, 60.1, 254.9], "w": 5.9, "h": 2.5, "from": "ring"},
+  {"mm": [23.5, 244.7, 27.3, 247.1], "w": 3.8, "h": 2.4, "from": "ring"},
+  {"mm": [58.5, 211.6, 61.4, 214.0], "w": 2.9, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [131.0, 203.9, 142.5, 210.8], "text": "66"},
+   {"mm": [94.5, 186.6, 106.0, 193.6], "text": "88"},
+   {"mm": [221.2, 47.5, 248.0, 55.0], "text": "WBS"},
+   {"mm": [253.8, 48.5, 333.4, 55.9], "text": "WARD-BeCk ByBTeMO"},
+   {"mm": [260.5, 33.1, 290.3, 40.6], "text": "SA8-117"},
+   {"mm": [225.0, 25.4, 322.9, 32.9], "text": "INDICATOR Driver ASSEMBLY"},
+   {"mm": [253.8, 16.8, 295.1, 24.3], "text": "SCHEMATIC"},
+   {"mm": [217.3, 4.3, 270.1, 12.2], "text": "B8 - 17-02-001"}
+  ]
+ },
+ "title_block": {"mm": [214.4, 38.9, 338.7, 64.8], "from": "title-block words (training set)", "text": ["WBS", "WARD-BeCk ByBTeMO"]},
+ "dots": [],
+ "nets": {
+  "groups": 21,
+  "wire_runs": 204,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 163.6, "runs": 20, "ends": 5, "bbox": [108.4, 184.2, 165.0, 215.9], "labels": ["88"]},
+   {"mm": 138.2, "runs": 11, "ends": 3, "bbox": [6.2, 195.3, 45.1, 280.2], "labels": []},
+   {"mm": 131.5, "runs": 13, "ends": 5, "bbox": [6.7, 155.9, 88.8, 178.5], "labels": []},
+   {"mm": 123.3, "runs": 9, "ends": 4, "bbox": [0.0, 213.5, 114.7, 221.2], "labels": []},
+   {"mm": 75.8, "runs": 11, "ends": 5, "bbox": [3.8, 201.0, 30.7, 246.6], "labels": []},
+   {"mm": 45.1, "runs": 3, "ends": 2, "bbox": [92.1, 178.5, 119.9, 196.7], "labels": ["88"]},
+   {"mm": 36.0, "runs": 2, "ends": 2, "bbox": [292.7, 20.2, 328.6, 21.1], "labels": ["INDICATOR Driver ASSEMBLY", "SCHEMATIC"]},
+   {"mm": 29.3, "runs": 1, "ends": 2, "bbox": [198.1, 185.2, 198.1, 214.5], "labels": []},
+   {"mm": 28.8, "runs": 4, "ends": 3, "bbox": [64.8, 200.5, 77.2, 212.5], "labels": []},
+   {"mm": 22.1, "runs": 7, "ends": 2, "bbox": [106.5, 192.4, 109.9, 214.5], "labels": []},
+   {"mm": 21.1, "runs": 2, "ends": 2, "bbox": [169.4, 184.2, 191.0, 184.7], "labels": []},
+   {"mm": 20.2, "runs": 1, "ends": 2, "bbox": [168.9, 214.9, 189.0, 215.4], "labels": []},
+   {"mm": 17.3, "runs": 2, "ends": 2, "bbox": [4.3, 195.7, 22.5, 195.7], "labels": []},
+   {"mm": 15.8, "runs": 2, "ends": 2, "bbox": [115.6, 203.4, 115.6, 220.2], "labels": []},
+   {"mm": 14.9, "runs": 2, "ends": 2, "bbox": [0.0, 207.3, 15.8, 207.7], "labels": []},
+   {"mm": 9.6, "runs": 3, "ends": 2, "bbox": [15.4, 249.5, 15.8, 261.0], "labels": []},
+   {"mm": 9.6, "runs": 1, "ends": 2, "bbox": [286.9, 10.1, 287.4, 19.7], "labels": ["INDICATOR Driver ASSEMBLY", "SCHEMATIC"]},
+   {"mm": 6.7, "runs": 5, "ends": 1, "bbox": [53.3, 250.4, 59.0, 250.4], "labels": []},
+   {"mm": 6.7, "runs": 1, "ends": 2, "bbox": [321.5, 15.4, 328.2, 15.8], "labels": ["INDICATOR Driver ASSEMBLY"]},
+   {"mm": 6.2, "runs": 3, "ends": 2, "bbox": [319.1, 7.7, 320.0, 14.4], "labels": ["INDICATOR Driver ASSEMBLY"]},
+   {"mm": 5.8, "runs": 5, "ends": 0, "bbox": [23.0, 252.8, 26.9, 252.8], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic B 8-117-02-001, size B 339 × 432 mm, 706 × 900 px traced (0.480 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 0–432 mm up",
+  "- **Outlines:** line 102 rings, 1,623 straight (4,099 mm) / 290 curved (767 mm); text 59 rings, 436 straight (883 mm) / 126 curved (388 mm); tb 2 rings, 25 straight (140 mm) / 3 curved (13.5 mm)",
+  "- **Centre lines:** 2,871 paths (31 closed); straight 3,692 mm, curved 65.3 mm; horizontal 1,152 mm, vertical 964 mm, diagonal 1,576 mm",
+  "- **Circles and arcs:** 1 circles, 5 arcs; largest r 5.8 @ (28.7, 197.8)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 9 in 8 lines: 66 · 88 · WBS · WARD-BeCk ByBTeMO · SA8-117 · INDICATOR Driver ASSEMBLY · SCHEMATIC · B8 - 17-02-001",
+  "- **Title block:** (214, 39)–(339, 65) mm: WBS · WARD-BeCk ByBTeMO",
+  "- **Wiring (first pass):** 21 connected wire groups from 204 runs; labelled ends: 164 mm → 88; 45 mm → 88; 36 mm → INDICATOR Driver ASSEMBLY, SCHEMATIC; 10 mm → INDICATOR Driver ASSEMBLY, SCHEMATIC; 7 mm → INDICATOR Driver ASSEMBLY"
+ ]
+}

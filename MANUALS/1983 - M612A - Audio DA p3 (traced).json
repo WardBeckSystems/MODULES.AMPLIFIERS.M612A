@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 314.4, 429.4],
+ "outlines": {
+  "line": {"rings": 42, "straight": {"n": 943, "mm": 2948.2}, "curved": {"n": 106, "mm": 170.3}},
+  "text": {"rings": 49, "straight": {"n": 449, "mm": 632.2}, "curved": {"n": 81, "mm": 128.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [33.9, 416.7, 87.7, 423.6], "text": "WAAD-BECK"},
+   {"mm": [89.6, 416.7, 152.0, 424.1], "text": "SYBTems LTD;"},
+   {"mm": [155.9, 238.6, 185.0, 245.0], "text": "SECTION"},
+   {"mm": [152.2, 225.0, 169.9, 231.4], "text": "MAIN"},
+   {"mm": [172.7, 224.5, 194.7, 231.5], "text": "FRAME"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–429 mm up",
+  "- **Outlines:** line 42 rings, 943 straight (2,948 mm) / 106 curved (170 mm); text 49 rings, 449 straight (632 mm) / 81 curved (129 mm)",
+  "- **Words (OCR):** 6 in 5 lines: WAAD-BECK · SYBTems LTD; · SECTION · MAIN · FRAME"
+ ]
+}

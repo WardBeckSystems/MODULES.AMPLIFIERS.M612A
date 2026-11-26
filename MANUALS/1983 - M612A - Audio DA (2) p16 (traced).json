@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p16.svg",
+ "sheet": {
+  "number": "B 612-06-003",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 7.6, 323.8, 390.6],
+ "outlines": {
+  "line": {"rings": 228, "straight": {"n": 4092, "mm": 6843.2}, "curved": {"n": 729, "mm": 873.7}},
+  "text": {"rings": 196, "straight": {"n": 1444, "mm": 1511.7}, "curved": {"n": 367, "mm": 429.3}},
+  "tb": {"rings": 20, "straight": {"n": 189, "mm": 193.9}, "curved": {"n": 33, "mm": 34.9}}
+ },
+ "circles": [{"c": [46.8, 104.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [178.1, 132.6, 202.7, 141.9], "text": "0:2/ 12:<"},
+   {"mm": [203.6, 132.1, 212.0, 143.2], "text": "os"},
+   {"mm": [98.7, 133.6, 121.3, 137.7], "text": "11'1-4-----"},
+   {"mm": [162.4, 113.1, 189.6, 120.6], "text": "f2 01"},
+   {"mm": [142.3, 95.0, 174.7, 101.2], "text": "-;=Zo"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [208.3, 52.0, 323.4, 60.7], "text": "(was] WARD-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.7, 36.9, 277.4, 42.4], "text": "M612A"},
+   {"mm": [214.0, 28.1, 320.2, 33.6], "text": "AUDIO DISTRIBUTION AMPLIFIER"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [229.1, 20.5, 302.9, 26.0], "text": "PERSPECTIVE LAYOUT"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [216.1, 8.2, 261.5, 13.7], "text": "612-06-003"},
+   {"mm": [308.3, 8.9, 323.6, 14.6], "text": "155.1"}
+  ]
+ },
+ "title_block": {"mm": [238.4, 44.4, 330.3, 66.2], "from": "title-block words (training set)", "text": ["ps", "(was] WARD-BECK SYSTEMS", "BS"]},
+ "dots": [{"c": [46.8, 113.8], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 612-06-003, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–324 mm across, 8–391 mm up",
+  "- **Outlines:** line 228 rings, 4,092 straight (6,843 mm) / 729 curved (874 mm); text 196 rings, 1,444 straight (1,512 mm) / 367 curved (429 mm); tb 20 rings, 189 straight (194 mm) / 33 curved (34.9 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (46.8, 104.6)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 15 lines: 0:2/ 12:< · os · 11'1-4----- · f2 01 · -;=Zo · ps · (was] WARD-BECK SYSTEMS · BS · M612A · AUDIO DISTRIBUTION AMPLIFIER · tp · PERSPECTIVE LAYOUT",
+  "- **Title block:** (238, 44)–(330, 66) mm: ps · (was] WARD-BECK SYSTEMS · BS"
+ ]
+}

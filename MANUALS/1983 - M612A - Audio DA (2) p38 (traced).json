@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 38,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p38.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "38", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 19.6, 313.7, 429.0],
+ "outlines": {
+  "line": {"rings": 81, "straight": {"n": 1255, "mm": 3600.1}, "curved": {"n": 219, "mm": 368.1}},
+  "text": {"rings": 70, "straight": {"n": 570, "mm": 758.5}, "curved": {"n": 165, "mm": 265.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [52.9, 415.0, 55.5, 417.1], "w": 2.6, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [32.6, 412.2, 128.2, 417.7], "text": "WAR -BECK YSTEMS"},
+   {"mm": [132.1, 412.2, 149.4, 418.2], "text": "LTD."},
+   {"mm": [90.0, 228.6, 249.8, 233.9], "text": "SA,14-«>6 OUTPUT SPLI TT ER NETW ORK ASSEMBLY"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [245.3, 36.3, 278.9, 41.5], "text": "JUNE 1983."},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 20–429 mm up",
+  "- **Outlines:** line 81 rings, 1,255 straight (3,600 mm) / 219 curved (368 mm); text 70 rings, 570 straight (758 mm) / 165 curved (266 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 18 in 8 lines: WAR -BECK YSTEMS · LTD. · SA,14-«>6 OUTPUT SPLI TT ER NETW ORK ASSEMBLY · ps · BS · JUNE 1983. · tp · ht"
+ ]
+}

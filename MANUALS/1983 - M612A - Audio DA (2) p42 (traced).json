@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 42,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p42.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "42", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [49.4, 8.6, 338.5, 268.4],
+ "outlines": {
+  "line": {"rings": 103, "straight": {"n": 1112, "mm": 2227.2}, "curved": {"n": 275, "mm": 475.7}},
+  "text": {"rings": 6, "straight": {"n": 33, "mm": 69.5}, "curved": {"n": 8, "mm": 15.1}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [49.4, 184.8, 123.5, 268.4], "w": 74.1, "h": 83.6, "from": "ring"}],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"},
+   {"mm": [324.5, 7.1, 338.3, 12.6], "text": "814-"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 49–338 mm across, 9–268 mm up",
+  "- **Outlines:** line 103 rings, 1,112 straight (2,227 mm) / 275 curved (476 mm); text 6 rings, 33 straight (69.5 mm) / 8 curved (15.1 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 5 in 5 lines: ps · BS · tp · ht · 814-"
+ ]
+}

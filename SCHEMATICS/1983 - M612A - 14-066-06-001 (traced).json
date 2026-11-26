@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 14-066-06-001.jpg",
+ "version": 1,
+ "trace": "_traces/8932a037534af781.svg",
+ "sheet": {
+  "number": "14-066-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [850, 1084],
+  "mm": [338.6, 431.8],
+  "mm_per_px": 0.39834
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [49.8, 8.6, 338.6, 268.1],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 295, "mm": 1223.9}, "curved": {"n": 87, "mm": 159.6}},
+  "text": {"rings": 67, "straight": {"n": 409, "mm": 683.9}, "curved": {"n": 135, "mm": 259.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [49.8, 184.8, 123.9, 268.1],
+   "w": 74.1,
+   "h": 83.3,
+   "from": "ring",
+   "words": ["300", "1/2w", "300", "R2", "1/2w", "300", "1/2w", "R4", "172w", "300", "R5", "1/2w", "300", "R6", "1/2w"]
+  }
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [89.6, 259.3, 100.8, 265.5], "text": "300"},
+   {"mm": [86.4, 252.9, 103.2, 260.0], "text": "1/2w"},
+   {"mm": [53.8, 239.4, 69.7, 246.5], "text": "1/2w"},
+   {"mm": [56.2, 243.4, 81.7, 252.0], "text": "300 R2"},
+   {"mm": [89.6, 233.0, 101.6, 238.8], "text": "300"},
+   {"mm": [88.0, 226.7, 103.2, 232.9], "text": "1/2w"},
+   {"mm": [72.9, 216.3, 81.7, 222.1], "text": "R4"},
+   {"mm": [56.2, 212.3, 70.5, 220.3], "text": "172w"},
+   {"mm": [72.9, 198.0, 104.0, 209.0], "text": "R5 1/2w"},
+   {"mm": [89.6, 205.1, 100.8, 211.3], "text": "300"},
+   {"mm": [57.8, 189.2, 82.5, 197.8], "text": "300 R6"},
+   {"mm": [55.4, 185.2, 71.3, 191.4], "text": "1/2w"},
+   {"mm": [323.8, 7.6, 337.4, 13.8], "text": "B14-"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-066-06-001, size B (assumed) 339 × 432 mm, 850 × 1084 px traced (0.398 mm/px)",
+  "- **Ink extent:** 50–339 mm across, 9–268 mm up",
+  "- **Outlines:** line 24 rings, 295 straight (1,224 mm) / 87 curved (160 mm); text 67 rings, 409 straight (684 mm) / 135 curved (259 mm)",
+  "- **Closed boxes:** 1; named: 300 1/2w 300 R2 1/2w 300 1/2w R4 172w 30",
+  "- **Words (OCR):** 16 in 13 lines: 300 · 1/2w · 1/2w · 300 R2 · 300 · 1/2w · R4 · 172w · R5 1/2w · 300 · 300 R6 · 1/2w"
+ ]
+}

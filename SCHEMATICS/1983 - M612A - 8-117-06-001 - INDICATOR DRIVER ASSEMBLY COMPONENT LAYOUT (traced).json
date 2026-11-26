@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 8-117-06-001 - INDICATOR DRIVER ASSEMBLY COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/77cfba361cdf0d18.svg",
+ "sheet": {
+  "number": "8-117-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.9, 334.2, 430.1],
+ "outlines": {
+  "line": {"rings": 118, "straight": {"n": 1011, "mm": 1270.1}, "curved": {"n": 278, "mm": 255.3}},
+  "text": {"rings": 313, "straight": {"n": 2786, "mm": 2894.8}, "curved": {"n": 806, "mm": 939.7}},
+  "tb": {"rings": 3, "straight": {"n": 60, "mm": 142.6}, "curved": {"n": 15, "mm": 14.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [123.1, 319.5, 146.8, 326.5], "text": "NOTES:"},
+   {"mm": [133.9, 306.6, 209.9, 313.1], "text": "TRANSISTORS 0101 AND"},
+   {"mm": [17.7, 301.8, 27.4, 308.3], "text": "OC"},
+   {"mm": [133.9, 299.7, 165.2, 306.1], "text": "0102 ARE"},
+   {"mm": [167.8, 300.1, 191.5, 306.6], "text": "PN3646 _"},
+   {"mm": [0.0, 296.4, 12.5, 303.4], "text": "KJW"},
+   {"mm": [133.9, 286.7, 180.3, 293.4], "text": "DIODES CR102"},
+   {"mm": [182.9, 286.7, 213.7, 293.7], "text": "To CR1OS"},
+   {"mm": [0.0, 278.5, 27.4, 288.4], "text": "LJw OE"},
+   {"mm": [134.3, 280.2, 174.9, 286.7], "text": "ARE IN4148 ."},
+   {"mm": [0.0, 270.3, 13.0, 276.8], "text": "Q101"},
+   {"mm": [0.0, 247.4, 16.0, 257.0], "text": "7 7KS"},
+   {"mm": [5.4, 241.8, 16.2, 248.3], "text": "IK8"},
+   {"mm": [0.0, 239.4, 4.5, 245.4], "text": "18"},
+   {"mm": [0.0, 219.4, 5.2, 225.4], "text": "01"},
+   {"mm": [0.0, 213.7, 9.1, 220.2], "text": "458"},
+   {"mm": [14.0, 194.7, 28.7, 202.4], "text": "1/35"},
+   {"mm": [0.0, 186.5, 30.4, 198.7], "text": "C1oz I/35"},
+   {"mm": [18.8, 181.8, 27.9, 188.3], "text": "OD"},
+   {"mm": [0.0, 174.4, 16.2, 183.1], "text": "3 4ZK"},
+   {"mm": [0.0, 166.7, 15.5, 174.8], "text": "14 4ZK"},
+   {"mm": [0.0, 158.0, 27.6, 166.7], "text": "17 4K7 OA"},
+   {"mm": [0.0, 149.2, 28.5, 159.5], "text": "18 4KZ oB"},
+   {"mm": [0.0, 141.6, 17.5, 151.9], "text": "16 22K"},
+   {"mm": [252.8, 50.5, 332.9, 58.4], "text": "WARD-BECK ByBTeMB"},
+   {"mm": [220.6, 50.1, 247.0, 57.0], "text": "WBS"},
+   {"mm": [258.9, 35.6, 288.7, 42.6], "text": "SA8-117"},
+   {"mm": [223.9, 27.6, 322.1, 35.1], "text": "INDICATOR DrivER ASSEMBLY"},
+   {"mm": [233.6, 18.4, 278.3, 26.5], "text": "COMPONEnT"},
+   {"mm": [283.5, 19.0, 312.8, 27.2], "text": "LAYout"},
+   {"mm": [316.7, 8.2, 331.8, 15.2], "text": "ISS."},
+   {"mm": [215.9, 7.6, 271.4, 14.5], "text": "B8-117-06-001"}
+  ]
+ },
+ "title_block": {"mm": [213.9, 41.5, 338.5, 66.9], "from": "title-block words (training set)", "text": ["WARD-BECK ByBTeMB", "WBS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 8-117-06-001, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 1–430 mm up",
+  "- **Outlines:** line 118 rings, 1,011 straight (1,270 mm) / 278 curved (255 mm); text 313 rings, 2,786 straight (2,895 mm) / 806 curved (940 mm); tb 3 rings, 60 straight (143 mm) / 15 curved (14.3 mm)",
+  "- **Words (OCR):** 42 in 32 lines: NOTES: · TRANSISTORS 0101 AND · OC · 0102 ARE · PN3646 _ · KJW · DIODES CR102 · To CR1OS · LJw OE · ARE IN4148 . · Q101 · 7 7KS",
+  "- **Title block:** (214, 42)–(338, 67) mm: WARD-BECK ByBTeMB · WBS"
+ ]
+}

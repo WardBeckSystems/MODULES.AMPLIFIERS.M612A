@@ -1,0 +1,93 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC.jpg",
+ "version": 1,
+ "trace": "_traces/da390ae2f3ba48ad.svg",
+ "sheet": {
+  "number": "14-066-02-001",
+  "title": "Output Splitter Network Schematic",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [850, 1084],
+  "mm": [338.6, 431.8],
+  "mm_per_px": 0.39834
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 8.9, 333.3, 360.9],
+ "outlines": {
+  "line": {"rings": 56, "straight": {"n": 397, "mm": 832.9}, "curved": {"n": 131, "mm": 305.7}},
+  "text": {"rings": 169, "straight": {"n": 992, "mm": 1824.5}, "curved": {"n": 312, "mm": 764.0}},
+  "tb": {"rings": 2, "straight": {"n": 31, "mm": 137.6}, "curved": {"n": 4, "mm": 16.9}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 255, "straight": {"n": 320, "mm": 466.6}, "curved": {"n": 43, "mm": 66.0}},
+   "text": {"paths": 1074, "straight": {"n": 1326, "mm": 1324.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1, "straight": {"n": 11, "mm": 75.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 40,
+  "orientation": {"horizontal": {"n": 369, "mm": 441.8}, "vertical": {"n": 411, "mm": 319.5}, "diagonal": {"n": 877, "mm": 1105.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [4.2, 181.5], "r": 2.2, "kind": "arc", "span": 192, "from": ["centre line"], "start": 186},
+  {"c": [1.8, 177.0], "r": 2.0, "kind": "arc", "span": 130, "from": ["centre line"], "start": 239},
+  {"c": [2.4, 227.6], "r": 1.9, "kind": "arc", "span": 154, "from": ["centre line"], "start": 89},
+  {"c": [291.4, 24.1], "r": 1.8, "kind": "circle", "span": 271, "from": ["centre line"]},
+  {"c": [261.2, 23.3], "r": 1.7, "kind": "arc", "span": 264, "from": ["centre line"], "start": 322},
+  {"c": [1.4, 236.7], "r": 1.7, "kind": "arc", "span": 162, "from": ["centre line"], "start": 275},
+  {"c": [1.2, 257.7], "r": 1.6, "kind": "arc", "span": 163, "from": ["centre line"], "start": 268},
+  {"c": [3.9, 236.6], "r": 1.6, "kind": "circle", "span": 310, "from": ["centre line"]},
+  {"c": [3.9, 217.5], "r": 1.6, "kind": "circle", "span": 310, "from": ["centre line"]},
+  {"c": [0.8, 217.5], "r": 1.6, "kind": "arc", "span": 163, "from": ["centre line"], "start": 88},
+  {"c": [256.4, 22.8], "r": 1.5, "kind": "arc", "span": 170, "from": ["centre line"], "start": 339}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [160.5, 354.9, 183.6, 362.0], "text": "NOTES:"},
+   {"mm": [186.8, 341.4, 237.8, 349.3], "text": "RESISTORS ARE"},
+   {"mm": [240.2, 340.6, 271.3, 348.5], "text": "1/2w 59 ."},
+   {"mm": [172.5, 342.2, 184.4, 347.9], "text": "ALL"},
+   {"mm": [171.7, 328.6, 228.2, 334.8], "text": "LAST COMPONENT"},
+   {"mm": [231.4, 327.8, 277.6, 334.9], "text": "DESIGNATION:"},
+   {"mm": [37.8, 214.7, 82.5, 220.9], "text": "To AMPHENOL"},
+   {"mm": [44.6, 207.5, 76.1, 215.5], "text": "26-159-16"},
+   {"mm": [41.8, 201.2, 79.3, 207.4], "text": "CONNECTOR"},
+   {"mm": [220.3, 50.6, 333.4, 58.6], "text": "WBS WARD-BECK byotemB"},
+   {"mm": [258.1, 35.1, 292.0, 43.0], "text": "SA14-066"},
+   {"mm": [230.2, 27.1, 324.2, 36.8], "text": "output SpLitter NETWORK"},
+   {"mm": [215.5, 7.6, 272.1, 15.5], "text": "B14-066-02-001"},
+   {"mm": [315.1, 8.4, 331.0, 16.3], "text": "ISS."}
+  ]
+ },
+ "title_block": {"mm": [213.5, 42.0, 338.6, 67.2], "from": "title-block words (training set)", "text": ["WBS WARD-BECK byotemB"]},
+ "dots": [],
+ "nets": {
+  "groups": 6,
+  "wire_runs": 17,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 19.9, "runs": 2, "ends": 2, "bbox": [7.6, 201.6, 26.7, 202.8], "labels": []},
+   {"mm": 19.1, "runs": 2, "ends": 2, "bbox": [8.4, 161.7, 26.7, 162.9], "labels": []},
+   {"mm": 18.3, "runs": 1, "ends": 2, "bbox": [7.6, 262.5, 25.9, 262.9], "labels": []},
+   {"mm": 18.3, "runs": 1, "ends": 2, "bbox": [8.0, 222.3, 26.3, 222.3], "labels": []},
+   {"mm": 17.5, "runs": 1, "ends": 2, "bbox": [8.0, 242.2, 25.5, 242.6], "labels": []},
+   {"mm": 17.5, "runs": 1, "ends": 2, "bbox": [8.8, 182.4, 26.3, 182.8], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 14-066-02-001, size B (assumed) 339 × 432 mm, 850 × 1084 px traced (0.398 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 9–361 mm up",
+  "- **Outlines:** line 56 rings, 397 straight (833 mm) / 131 curved (306 mm); text 169 rings, 992 straight (1,824 mm) / 312 curved (764 mm); tb 2 rings, 31 straight (138 mm) / 4 curved (16.9 mm)",
+  "- **Centre lines:** 1,330 paths (40 closed); straight 1,867 mm, curved 66.0 mm; horizontal 442 mm, vertical 320 mm, diagonal 1,106 mm",
+  "- **Circles and arcs:** 3 circles, 8 arcs; largest r 1.8 @ (291.4, 24.1), r 1.6 @ (3.9, 236.6), r 1.6 @ (3.9, 217.5)",
+  "- **Words (OCR):** 19 in 14 lines: NOTES: · RESISTORS ARE · 1/2w 59 . · ALL · LAST COMPONENT · DESIGNATION: · To AMPHENOL · 26-159-16 · CONNECTOR · WBS WARD-BECK byotemB · SA14-066 · output SpLitter NETWORK",
+  "- **Title block:** (214, 42)–(339, 67) mm: WBS WARD-BECK byotemB",
+  "- **Wiring (first pass):** 6 connected wire groups from 17 runs"
+ ]
+}

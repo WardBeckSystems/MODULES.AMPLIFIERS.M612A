@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.3, 19.0, 338.6, 394.7],
+ "outlines": {
+  "line": {"rings": 142, "straight": {"n": 3187, "mm": 6522.0}, "curved": {"n": 459, "mm": 806.2}},
+  "text": {"rings": 309, "straight": {"n": 1804, "mm": 2079.6}, "curved": {"n": 487, "mm": 808.4}}
+ },
+ "circles": [
+  {"c": [235.6, 97.3], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [235.5, 137.0], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [235.8, 57.2], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [225.2, 266.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [259.6, 57.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 43,
+  "lines": [
+   {"mm": [296.6, 368.3, 309.2, 373.4], "text": "(-9d"},
+   {"mm": [296.6, 349.8, 308.7, 354.8], "text": "(-6d"},
+   {"mm": [302.9, 329.0, 313.9, 334.1], "text": "6dB"},
+   {"mm": [296.9, 308.7, 309.4, 313.8], "text": "(-6d"},
+   {"mm": [303.1, 288.7, 309.6, 293.7], "text": "6d"},
+   {"mm": [149.6, 283.0, 164.5, 288.1], "text": "TR IM"},
+   {"mm": [119.6, 233.6, 173.4, 278.0], "text": "tr GAIN dB"},
+   {"mm": [35.0, 266.0, 48.6, 271.0], "text": "IN PU"},
+   {"mm": [302.9, 268.6, 309.0, 273.6], "text": "6d"},
+   {"mm": [127.6, 262.8, 135.2, 267.8], "text": "RE"},
+   {"mm": [9.3, 259.3, 78.8, 264.3], "text": "-32 Bm TO +14 dBm"},
+   {"mm": [29.1, 251.5, 39.1, 256.8], "text": "30K"},
+   {"mm": [51.2, 251.5, 61.5, 256.8], "text": "ms."},
+   {"mm": [297.1, 248.1, 309.6, 253.1], "text": "(-6d"},
+   {"mm": [303.3, 228.9, 309.4, 233.9], "text": "6d"},
+   {"mm": [303.3, 209.4, 309.4, 214.5], "text": "6d"},
+   {"mm": [303.1, 169.0, 309.8, 174.1], "text": "6d"},
+   {"mm": [149.2, 155.7, 217.0, 160.7], "text": "PROGR AM DETE CTORS"},
+   {"mm": [300.7, 148.3, 310.7, 153.4], "text": "-6d"},
+   {"mm": [252.8, 133.6, 284.8, 138.7], "text": "OVERLOAD"},
+   {"mm": [109.9, 128.7, 120.7, 133.7], "text": "REF"},
+   {"mm": [253.3, 94.1, 277.4, 99.2], "text": "NORMAL"},
+   {"mm": [110.5, 88.3, 118.1, 93.3], "text": "RE"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [46.9, 57.6, 72.5, 62.7], "text": "115V AC"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [46.0, 50.7, 73.2, 56.0], "text": "50 /60 Hz"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–339 mm across, 19–395 mm up",
+  "- **Outlines:** line 142 rings, 3,187 straight (6,522 mm) / 459 curved (806 mm); text 309 rings, 1,804 straight (2,080 mm) / 487 curved (808 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 5.7 @ (235.6, 97.3), r 5.7 @ (235.5, 137.0), r 5.6 @ (235.8, 57.2), r 2.1 @ (225.2, 266.6)",
+  "- **Words (OCR):** 43 in 29 lines: (-9d · (-6d · 6dB · (-6d · 6d · TR IM · tr GAIN dB · IN PU · 6d · RE · -32 Bm TO +14 dBm · 30K"
+ ]
+}

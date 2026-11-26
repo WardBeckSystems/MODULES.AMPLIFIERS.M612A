@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.2, 17.1, 338.5, 269.7],
+ "outlines": {
+  "line": {"rings": 826, "straight": {"n": 7076, "mm": 9989.7}, "curved": {"n": 2032, "mm": 2754.7}},
+  "text": {"rings": 98, "straight": {"n": 349, "mm": 293.4}, "curved": {"n": 15, "mm": 22.4}}
+ },
+ "circles": [
+  {"c": [25.2, 259.4], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.8},
+  {"c": [246.8, 260.5], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [107.1, 195.5], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [329.7, 260.3], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [139.7, 206.5], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [139.6, 216.6], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [127.6, 253.5, 131.1, 255.8], "w": 3.5, "h": 2.4, "from": "ring"},
+  {"mm": [127.2, 249.6, 130.6, 252.0], "w": 3.5, "h": 2.4, "from": "ring"},
+  {"mm": [106.4, 245.0, 109.9, 247.4], "w": 3.5, "h": 2.4, "from": "ring"},
+  {"mm": [266.2, 235.8, 269.4, 238.1], "w": 3.2, "h": 2.4, "from": "ring"},
+  {"mm": [136.0, 233.8, 139.3, 236.4], "w": 3.2, "h": 2.6, "from": "ring"},
+  {"mm": [125.9, 227.3, 128.0, 229.7], "w": 2.1, "h": 2.4, "from": "ring"},
+  {"mm": [72.8, 206.0, 76.4, 208.3], "w": 3.7, "h": 2.4, "from": "ring"},
+  {"mm": [137.1, 193.0, 140.1, 195.4], "w": 3.0, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [29.7, 228.6], "r": 1.1, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–338 mm across, 17–270 mm up",
+  "- **Outlines:** line 826 rings, 7,076 straight (9,990 mm) / 2,032 curved (2,755 mm); text 98 rings, 349 straight (293 mm) / 15 curved (22.4 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 4.5 @ (25.2, 259.4), r 3.7 @ (246.8, 260.5), r 2.6 @ (107.1, 195.5), r 2.2 @ (329.7, 260.3)",
+  "- **Closed boxes:** 8",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 40,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p40.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "40", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [74.7, 25.0, 338.6, 411.5],
+ "outlines": {
+  "line": {"rings": 79, "straight": {"n": 1025, "mm": 1885.6}, "curved": {"n": 254, "mm": 442.9}},
+  "text": {"rings": 61, "straight": {"n": 473, "mm": 585.5}, "curved": {"n": 137, "mm": 230.8}}
+ },
+ "circles": [
+  {"c": [89.8, 221.4], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [78.5, 208.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [213.4, 205.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [330.4, 359.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [160.0, 233.6, 169.7, 238.9], "text": "300"},
+   {"mm": [161.7, 224.1, 169.7, 232.3], "text": "aa"},
+   {"mm": [203.6, 215.7, 246.3, 220.7], "text": "TO AMPHENOL"},
+   {"mm": [210.7, 209.0, 240.1, 214.3], "text": "26*1 59* 16"},
+   {"mm": [207.9, 202.7, 243.5, 207.5], "text": "CONNEC OR"},
+   {"mm": [159.3, 194.1, 169.0, 199.4], "text": "300"},
+   {"mm": [160.0, 173.8, 169.7, 179.1], "text": "300"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 75–339 mm across, 25–412 mm up",
+  "- **Outlines:** line 79 rings, 1,025 straight (1,886 mm) / 254 curved (443 mm); text 61 rings, 473 straight (586 mm) / 137 curved (231 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.2 @ (89.8, 221.4), r 2.2 @ (78.5, 208.1), r 2.2 @ (213.4, 205.9), r 2.1 @ (330.4, 359.6)",
+  "- **Words (OCR):** 15 in 11 lines: 300 · aa · TO AMPHENOL · 26*1 59* 16 · CONNEC OR · 300 · 300 · ps · BS · tp · ht"
+ ]
+}

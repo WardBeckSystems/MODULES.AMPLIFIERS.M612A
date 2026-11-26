@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 066-06-001 - AUDIO AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/85db805ef185d5d6.svg",
+ "sheet": {
+  "number": "066-06-001",
+  "title": "Audio Amplifier Assembly Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [850, 1084],
+  "mm": [338.6, 431.8],
+  "mm_per_px": 0.39834
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.0, 332.3, 429.4],
+ "outlines": {
+  "line": {"rings": 487, "straight": {"n": 2821, "mm": 5555.1}, "curved": {"n": 771, "mm": 1325.4}},
+  "text": {"rings": 172, "straight": {"n": 959, "mm": 1429.2}, "curved": {"n": 345, "mm": 661.2}}
+ },
+ "circles": [
+  {"c": [173.5, 201.6], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [62.5, 259.8], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [173.0, 262.0], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [146.5, 259.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [171.3, 260.1, 175.3, 264.1], "w": 4.0, "h": 4.0, "from": "ring"},
+  {"mm": [60.1, 257.7, 64.5, 262.1], "w": 4.4, "h": 4.4, "from": "ring"},
+  {"mm": [39.0, 251.7, 43.0, 253.8], "w": 4.0, "h": 2.2, "from": "ring"},
+  {"mm": [23.5, 243.8, 28.8, 246.7], "w": 5.3, "h": 2.9, "from": "ring"},
+  {"mm": [82.1, 234.9, 85.3, 237.4], "w": 3.3, "h": 2.5, "from": "ring"},
+  {"mm": [91.2, 235.0, 96.0, 237.4], "w": 4.8, "h": 2.4, "from": "ring"},
+  {"mm": [58.2, 231.3, 61.8, 233.8], "w": 3.7, "h": 2.5, "from": "ring"},
+  {"mm": [39.7, 228.9, 46.2, 231.0], "w": 6.5, "h": 2.1, "from": "ring"},
+  {"mm": [0.3, 223.5, 5.2, 226.7], "w": 4.9, "h": 3.2, "from": "ring"},
+  {"mm": [104.0, 219.4, 107.7, 221.5], "w": 3.7, "h": 2.1, "from": "ring"},
+  {"mm": [90.8, 215.0, 96.0, 217.5], "w": 5.2, "h": 2.5, "from": "ring"},
+  {"mm": [59.8, 205.1, 62.9, 207.5], "w": 3.2, "h": 2.4, "from": "ring"},
+  {"mm": [72.9, 202.4, 75.0, 204.7], "w": 2.1, "h": 2.4, "from": "ring"},
+  {"mm": [59.8, 201.2, 62.9, 203.6], "w": 3.2, "h": 2.4, "from": "ring"},
+  {"mm": [85.0, 195.1, 87.2, 197.6], "w": 2.2, "h": 2.5, "from": "ring"},
+  {"mm": [162.1, 187.5, 167.7, 190.0], "w": 5.6, "h": 2.5, "from": "ring"},
+  {"mm": [112.3, 186.4, 117.1, 188.8], "w": 4.8, "h": 2.4, "from": "ring"},
+  {"mm": [41.4, 186.4, 46.2, 188.6], "w": 4.8, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [56.2, 250.6, 69.7, 255.4], "text": "R49247"},
+   {"mm": [16.3, 246.6, 28.3, 251.4], "text": "A46 22"},
+   {"mm": [56.2, 246.6, 69.7, 251.4], "text": "Rso LC"},
+   {"mm": [17.1, 234.6, 29.1, 239.5], "text": "R4z l5"},
+   {"mm": [97.6, 233.0, 110.3, 240.1], "text": "719186"},
+   {"mm": [64.5, 231.8, 74.9, 234.5], "text": "Pujsee"},
+   {"mm": [130.7, 227.9, 141.0, 230.9], "text": "L70/LC"},
+   {"mm": [152.2, 227.9, 162.5, 230.9], "text": "470/40"},
+   {"mm": [12.3, 216.3, 26.7, 221.2], "text": "57Q_ZZ0"},
+   {"mm": [17.1, 207.5, 29.9, 213.3], "text": "R3 12"},
+   {"mm": [46.6, 215.5, 56.2, 220.4], "text": "JVto"},
+   {"mm": [97.2, 215.9, 108.3, 219.0], "text": "Ti2296"},
+   {"mm": [17.1, 199.6, 29.9, 205.3], "text": "aza 22"},
+   {"mm": [220.3, 47.4, 332.6, 55.4], "text": "WBS WAAD-BEC byatemB"},
+   {"mm": [256.1, 32.3, 292.8, 40.2], "text": "SA14-066"},
+   {"mm": [225.1, 23.5, 316.3, 31.5], "text": "Audio AMpLiFIER ASSEMBLY"},
+   {"mm": [232.6, 15.5, 309.5, 23.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [215.1, 2.8, 272.9, 11.2], "text": "B14-066-06-00 1"},
+   {"mm": [313.5, 3.6, 329.4, 11.6], "text": "I8S."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 066-06-001, size B (assumed) 339 × 432 mm, 850 × 1084 px traced (0.398 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 4–429 mm up",
+  "- **Outlines:** line 487 rings, 2,821 straight (5,555 mm) / 771 curved (1,325 mm); text 172 rings, 959 straight (1,429 mm) / 345 curved (661 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.9 @ (173.5, 201.6), r 3.8 @ (62.5, 259.8), r 3.7 @ (173.0, 262.0), r 2.2 @ (146.5, 259.9)",
+  "- **Closed boxes:** 18",
+  "- **Words (OCR):** 21 in 19 lines: R49247 · A46 22 · Rso LC · R4z l5 · 719186 · Pujsee · L70/LC · 470/40 · 57Q_ZZ0 · R3 12 · JVto · Ti2296"
+ ]
+}

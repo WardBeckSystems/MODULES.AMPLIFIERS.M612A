@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p37.svg",
+ "sheet": {
+  "number": "88-117-08-001",
+  "title": "",
+  "dtype": "08",
+  "type": "parts list",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 8.4, 334.4, 429.0],
+ "outlines": {
+  "line": {"rings": 57, "straight": {"n": 862, "mm": 1296.5}, "curved": {"n": 162, "mm": 237.8}},
+  "text": {"rings": 279, "straight": {"n": 2133, "mm": 2595.0}, "curved": {"n": 595, "mm": 962.3}},
+  "tb": {"rings": 2, "straight": {"n": 56, "mm": 152.0}, "curved": {"n": 1, "mm": 1.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [123.1, 319.5, 146.8, 326.5], "text": "NOTES:"},
+   {"mm": [133.9, 306.6, 209.9, 313.1], "text": "TRANSISTORS 0101 AND"},
+   {"mm": [133.9, 299.7, 165.2, 306.6], "text": "0102 ARE"},
+   {"mm": [168.4, 300.1, 191.5, 306.6], "text": "PN3646 _"},
+   {"mm": [133.9, 286.7, 180.3, 293.9], "text": "DIODES CR102"},
+   {"mm": [182.9, 286.7, 213.7, 293.7], "text": "To CR1OS"},
+   {"mm": [18.4, 278.5, 27.4, 285.0], "text": "OE"},
+   {"mm": [134.3, 280.2, 173.2, 286.7], "text": "ARE 1N4148 _"},
+   {"mm": [0.0, 270.3, 13.0, 276.8], "text": "Q1o1"},
+   {"mm": [0.0, 247.4, 16.4, 257.0], "text": "7 7KS"},
+   {"mm": [5.4, 241.8, 16.2, 248.8], "text": "1K8"},
+   {"mm": [0.0, 239.4, 4.5, 245.4], "text": "18"},
+   {"mm": [0.0, 213.7, 9.1, 220.2], "text": "458"},
+   {"mm": [14.0, 194.7, 28.7, 202.4], "text": "1/35"},
+   {"mm": [0.0, 186.5, 30.4, 198.7], "text": "C102 I/35"},
+   {"mm": [0.0, 181.8, 28.5, 191.1], "text": "~cio1 OD"},
+   {"mm": [0.0, 174.4, 16.6, 183.1], "text": "3 4ZK"},
+   {"mm": [0.0, 166.7, 16.2, 174.8], "text": "14 4ZK"},
+   {"mm": [0.0, 157.8, 28.1, 167.4], "text": "174KZ OA"},
+   {"mm": [0.0, 149.2, 28.5, 159.5], "text": "18 4KZ OB"},
+   {"mm": [0.0, 141.6, 17.5, 151.9], "text": "16 22K"},
+   {"mm": [221.3, 50.1, 247.2, 57.0], "text": "WBS"},
+   {"mm": [252.8, 50.5, 332.9, 58.2], "text": "WARD-BECK ByBTEMB"},
+   {"mm": [259.5, 35.6, 288.7, 42.6], "text": "SA8-117"},
+   {"mm": [223.9, 27.6, 322.3, 35.6], "text": "INDICATOR driver ASSEMBLY"},
+   {"mm": [233.6, 18.4, 278.3, 26.0], "text": "COMPOnEnT"},
+   {"mm": [284.3, 19.0, 312.8, 26.4], "text": "LAYout"},
+   {"mm": [316.7, 8.2, 331.8, 15.2], "text": "ISS."},
+   {"mm": [216.3, 6.9, 271.4, 14.6], "text": "88-117-08-001"}
+  ]
+ },
+ "title_block": {"mm": [214.4, 41.5, 338.5, 66.7], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK ByBTEMB"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** parts list 88-117-08-001, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 8–429 mm up",
+  "- **Outlines:** line 57 rings, 862 straight (1,296 mm) / 162 curved (238 mm); text 279 rings, 2,133 straight (2,595 mm) / 595 curved (962 mm); tb 2 rings, 56 straight (152 mm) / 1 curved (1.6 mm)",
+  "- **Words (OCR):** 39 in 29 lines: NOTES: · TRANSISTORS 0101 AND · 0102 ARE · PN3646 _ · DIODES CR102 · To CR1OS · OE · ARE 1N4148 _ · Q1o1 · 7 7KS · 1K8 · 18",
+  "- **Title block:** (214, 42)–(338, 67) mm: WBS · WARD-BECK ByBTEMB"
+ ]
+}

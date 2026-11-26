@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 4.7, 333.3, 394.9],
+ "outlines": {
+  "line": {"rings": 173, "straight": {"n": 2724, "mm": 5313.7}, "curved": {"n": 497, "mm": 797.4}},
+  "text": {"rings": 282, "straight": {"n": 1868, "mm": 2267.0}, "curved": {"n": 463, "mm": 761.6}}
+ },
+ "circles": [
+  {"c": [295.8, 20.8], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [239.4, 27.9], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [266.3, 20.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [281.7, 28.1], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [58.7, 369.0, 78.4, 374.0], "text": "(-9dB)"},
+   {"mm": [64.6, 350.4, 71.0, 355.4], "text": "6d"},
+   {"mm": [58.7, 309.4, 75.8, 314.4], "text": "(-6;;B"},
+   {"mm": [64.6, 289.3, 71.5, 294.3], "text": "6d"},
+   {"mm": [155.7, 267.7, 182.9, 272.8], "text": "OUTP UTS"},
+   {"mm": [172.7, 261.2, 180.7, 266.3], "text": "Bm"},
+   {"mm": [155.2, 254.3, 183.7, 259.4], "text": "600 oh ms"},
+   {"mm": [58.9, 229.5, 71.7, 234.5], "text": "(-6d"},
+   {"mm": [130.0, 195.4, 135.8, 200.2], "text": "10"},
+   {"mm": [64.3, 190.4, 72.1, 195.5], "text": "6d"},
+   {"mm": [129.8, 176.0, 135.6, 181.0], "text": "11"},
+   {"mm": [58.9, 169.5, 78.4, 174.5], "text": "(-6dB)"},
+   {"mm": [129.8, 156.3, 135.6, 161.3], "text": "12"},
+   {"mm": [65.2, 149.0, 71.7, 154.0], "text": "6d"},
+   {"mm": [3.0, 139.7, 9.5, 149.3], "text": ".II"},
+   {"mm": [14.5, 133.9, 45.6, 138.9], "text": "OVERLOAD"},
+   {"mm": [14.7, 94.8, 38.2, 99.8], "text": "NORMAL"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [14.7, 54.4, 47.1, 59.4], "text": "POWER ON"},
+   {"mm": [275.7, 47.7, 331.4, 59.7], "text": "BS .Y.TE~"},
+   {"mm": [214.6, 47.9, 294.9, 56.3], "text": "[VVE3SJ WARD-• •CK"},
+   {"mm": [261.9, 32.4, 282.8, 38.1], "text": "M612A"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [221.1, 24.0, 322.3, 29.5], "text": "AUDIO DISTR IBUTION AMPLIFIER"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [240.7, 16.4, 310.9, 21.9], "text": "FUNCTIONAL DIAGRAM"},
+   {"mm": [214.4, 3.2, 256.9, 9.0], "text": "B6 12 1-001"},
+   {"mm": [316.5, 3.9, 329.0, 9.4], "text": "IS8."}
+  ]
+ },
+ "dots": [{"c": [65.5, 331.6], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 5–395 mm up",
+  "- **Outlines:** line 173 rings, 2,724 straight (5,314 mm) / 497 curved (797 mm); text 282 rings, 1,868 straight (2,267 mm) / 463 curved (762 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.5 @ (295.8, 20.8), r 2.5 @ (239.4, 27.9), r 2.4 @ (266.3, 20.5), r 2.4 @ (281.7, 28.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 41 in 28 lines: (-9dB) · 6d · (-6;;B · 6d · OUTP UTS · Bm · 600 oh ms · (-6d · 10 · 6d · 11 · (-6dB)"
+ ]
+}

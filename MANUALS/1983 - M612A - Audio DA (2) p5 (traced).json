@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 337.7, 426.4],
+ "outlines": {
+  "line": {"rings": 200, "straight": {"n": 2111, "mm": 4782.0}, "curved": {"n": 463, "mm": 720.5}},
+  "text": {"rings": 223, "straight": {"n": 1500, "mm": 1717.1}, "curved": {"n": 375, "mm": 590.7}}
+ },
+ "circles": [{"c": [148.8, 358.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [111.6, 414.1, 116.4, 418.8], "w": 4.7, "h": 4.7, "from": "ring"}],
+ "text": {
+  "words": 53,
+  "lines": [
+   {"mm": [35.0, 412.6, 54.2, 418.1], "text": "WAR"},
+   {"mm": [65.2, 412.6, 87.9, 418.1], "text": "BECK"},
+   {"mm": [101.9, 412.6, 116.6, 418.1], "text": "STE"},
+   {"mm": [139.0, 412.6, 151.8, 418.1], "text": "TD."},
+   {"mm": [147.2, 368.5, 203.2, 373.8], "text": "TECHN IC AL DA TA"},
+   {"mm": [109.0, 355.4, 149.8, 360.6], "text": "M612A AUDIO"},
+   {"mm": [160.6, 355.4, 241.2, 360.6], "text": "ISTRIBUT IO AMPLIF IER"},
+   {"mm": [57.4, 321.5, 109.5, 326.8], "text": "we Requiremen"},
+   {"mm": [152.4, 321.5, 165.2, 326.5], "text": "115V"},
+   {"mm": [170.1, 321.5, 178.1, 326.8], "text": "AC"},
+   {"mm": [210.9, 321.5, 262.5, 326.8], "text": "50/ 60 Hz 25 VA."},
+   {"mm": [49.0, 307.9, 68.2, 313.2], "text": "Ambie"},
+   {"mm": [80.1, 307.9, 118.3, 313.2], "text": "Tem pe at ur."},
+   {"mm": [159.6, 308.3, 175.1, 313.3], "text": "IQ 60"},
+   {"mm": [188.0, 308.1, 195.2, 313.4], "text": "gr"},
+   {"mm": [217.8, 308.3, 229.5, 313.6], "text": "lsiu"},
+   {"mm": [49.7, 294.3, 88.1, 299.5], "text": "Dlmen lon.:"},
+   {"mm": [178.1, 294.3, 183.9, 299.5], "text": "wi"},
+   {"mm": [205.3, 294.3, 217.6, 299.5], "text": "3.4\""},
+   {"mm": [249.8, 294.3, 257.1, 299.5], "text": "13."},
+   {"mm": [270.7, 294.3, 284.8, 299.5], "text": "deep"},
+   {"mm": [155.2, 287.1, 174.9, 292.4], "text": "86 mm"},
+   {"mm": [187.8, 287.1, 207.5, 292.4], "text": "86 mm"},
+   {"mm": [220.6, 287.1, 245.0, 292.4], "text": "348 mm)"},
+   {"mm": [49.4, 274.4, 56.8, 279.7], "text": "We"},
+   {"mm": [152.0, 274.4, 161.1, 279.7], "text": "Si"},
+   {"mm": [183.9, 274.4, 205.5, 279.7], "text": "25 Kg)"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [54.2, 324.4], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 0–426 mm up",
+  "- **Outlines:** line 200 rings, 2,111 straight (4,782 mm) / 463 curved (720 mm); text 223 rings, 1,500 straight (1,717 mm) / 375 curved (591 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (148.8, 358.8)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 53 in 31 lines: WAR · BECK · STE · TD. · TECHN IC AL DA TA · M612A AUDIO · ISTRIBUT IO AMPLIF IER · we Requiremen · 115V · AC · 50/ 60 Hz 25 VA. · Ambie"
+ ]
+}

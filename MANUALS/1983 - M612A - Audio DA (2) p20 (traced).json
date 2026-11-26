@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 20.7, 313.7, 426.4],
+ "outlines": {
+  "line": {"rings": 103, "straight": {"n": 1421, "mm": 3875.1}, "curved": {"n": 254, "mm": 410.4}},
+  "text": {"rings": 28, "straight": {"n": 198, "mm": 307.4}, "curved": {"n": 49, "mm": 81.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [92.4, 413.4, 113.1, 419.0], "text": "YSTE"},
+   {"mm": [130.8, 413.4, 145.5, 419.0], "text": "LTC"},
+   {"mm": [106.2, 228.0, 130.0, 233.0], "text": "SA 14_06"},
+   {"mm": [142.5, 228.0, 152.0, 233.0], "text": "UDI"},
+   {"mm": [162.1, 228.0, 233.8, 233.0], "text": "AMPLIFIER ASSEMBLY"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 21–426 mm up",
+  "- **Outlines:** line 103 rings, 1,421 straight (3,875 mm) / 254 curved (410 mm); text 28 rings, 198 straight (307 mm) / 49 curved (81.1 mm)",
+  "- **Words (OCR):** 11 in 9 lines: YSTE · LTC · SA 14_06 · UDI · AMPLIFIER ASSEMBLY · ps · BS · tp · ht"
+ ]
+}

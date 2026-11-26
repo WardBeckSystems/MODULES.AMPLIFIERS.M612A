@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 313.1, 426.4],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 1185, "mm": 3485.8}, "curved": {"n": 160, "mm": 245.8}},
+  "text": {"rings": 57, "straight": {"n": 466, "mm": 583.8}, "curved": {"n": 134, "mm": 215.6}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [62.6, 414.7, 67.8, 419.5], "w": 5.2, "h": 4.7, "from": "ring"}],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [106.9, 221.3, 172.5, 228.3], "text": "SA8-117 IND ICATOR"},
+   {"mm": [175.3, 221.9, 200.6, 228.4], "text": "DRIVER"},
+   {"mm": [203.4, 221.5, 236.8, 229.2], "text": "ASSEMBLY"},
+   {"mm": [247.6, 51.4, 267.1, 58.3], "text": "ISSUE"},
+   {"mm": [247.0, 37.8, 282.0, 44.7], "text": "JUNE 1983 _"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–313 mm across, 0–426 mm up",
+  "- **Outlines:** line 66 rings, 1,185 straight (3,486 mm) / 160 curved (246 mm); text 57 rings, 466 straight (584 mm) / 134 curved (216 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 7 in 5 lines: SA8-117 IND ICATOR · DRIVER · ASSEMBLY · ISSUE · JUNE 1983 _"
+ ]
+}

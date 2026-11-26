@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 37,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p37.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "37", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 8.4, 334.4, 429.0],
+ "outlines": {
+  "line": {"rings": 209, "straight": {"n": 2180, "mm": 3070.8}, "curved": {"n": 506, "mm": 819.1}},
+  "text": {"rings": 136, "straight": {"n": 1019, "mm": 1268.5}, "curved": {"n": 292, "mm": 454.0}}
+ },
+ "circles": [
+  {"c": [301.1, 22.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [241.5, 22.4], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [252.3, 31.0], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.7, 185.0], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.6, 161.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 45,
+  "lines": [
+   {"mm": [124.6, 319.7, 144.0, 324.8], "text": "NOT ES"},
+   {"mm": [135.4, 306.4, 210.3, 311.4], "text": "TRANSISTORS 0101 AND"},
+   {"mm": [19.4, 302.9, 27.4, 307.9], "text": "OC"},
+   {"mm": [139.9, 299.9, 189.8, 304.9], "text": "102 RE PN3646"},
+   {"mm": [142.7, 286.7, 213.3, 291.8], "text": "ODES CR 102 TO CR105"},
+   {"mm": [0.4, 279.6, 27.2, 287.8], "text": "~3W OE"},
+   {"mm": [135.4, 280.0, 174.2, 285.1], "text": "ARE N4148."},
+   {"mm": [0.9, 271.4, 13.0, 276.4], "text": "0101"},
+   {"mm": [0.0, 250.0, 15.5, 255.0], "text": "17 7K5"},
+   {"mm": [6.7, 241.4, 16.2, 246.4], "text": "lJi.8"},
+   {"mm": [15.1, 196.0, 24.0, 201.1], "text": "1/3"},
+   {"mm": [5.8, 176.6, 15.3, 181.6], "text": "47K"},
+   {"mm": [5.6, 168.8, 15.1, 173.9], "text": "47K"},
+   {"mm": [5.8, 159.3, 14.5, 164.6], "text": "J:!g"},
+   {"mm": [5.8, 150.7, 27.4, 156.0], "text": "J:!g OB"},
+   {"mm": [6.7, 144.2, 16.2, 149.3], "text": "22K"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 331.4, 59.7], "text": "BS .V.T.M8"},
+   {"mm": [215.9, 49.4, 295.8, 57.8], "text": "(was) WARD-8aCK"},
+   {"mm": [259.3, 34.8, 286.9, 40.3], "text": "SAS-117"},
+   {"mm": [224.1, 27.0, 319.7, 32.5], "text": "INDICATOR DRIVER ASSEMBLY"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [233.4, 18.4, 311.3, 23.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [216.1, 6.7, 269.0, 12.5], "text": "BS-117-06- 001"},
+   {"mm": [317.2, 6.9, 333.3, 12.7], "text": "188.1"}
+  ]
+ },
+ "dots": [{"c": [301.0, 22.6], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 8–429 mm up",
+  "- **Outlines:** line 209 rings, 2,180 straight (3,071 mm) / 506 curved (819 mm); text 136 rings, 1,019 straight (1,268 mm) / 292 curved (454 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.4 @ (301.1, 22.6), r 2.4 @ (241.5, 22.4), r 2.4 @ (252.3, 31.0), r 1.9 @ (21.7, 185.0)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 45 in 26 lines: NOT ES · TRANSISTORS 0101 AND · OC · 102 RE PN3646 · ODES CR 102 TO CR105 · ~3W OE · ARE N4148. · 0101 · 17 7K5 · lJi.8 · 1/3 · 47K"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 12-06-003 - AUDIO DISTRIBUTION AMPLIFIER PERSPECTIVE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/47348882b0fda5f6.svg",
+ "sheet": {
+  "number": "12-06-003",
+  "title": "Audio Distribution Amplifier Perspective Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 7.5, 331.4, 415.2],
+ "outlines": {
+  "line": {"rings": 190, "straight": {"n": 3788, "mm": 6055.3}, "curved": {"n": 669, "mm": 788.6}},
+  "text": {"rings": 176, "straight": {"n": 1650, "mm": 1869.8}, "curved": {"n": 464, "mm": 545.1}},
+  "tb": {"rings": 3, "straight": {"n": 88, "mm": 146.6}, "curved": {"n": 12, "mm": 11.6}}
+ },
+ "circles": [
+  {"c": [46.8, 104.6], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [94.6, 99.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [116.6, 224.5, 142.9, 232.7], "text": "7r0/"},
+   {"mm": [71.2, 132.6, 92.8, 148.9], "text": "M6TZA"},
+   {"mm": [58.1, 120.9, 109.0, 139.1], "text": "TBS GAIN"},
+   {"mm": [159.8, 111.8, 191.1, 125.7], "text": "k220 ("},
+   {"mm": [69.1, 108.0, 86.6, 120.4], "text": "TRim"},
+   {"mm": [37.8, 89.2, 57.2, 104.8], "text": "NORM"},
+   {"mm": [153.9, 93.7, 182.4, 103.3], "text": "Fza /"},
+   {"mm": [43.6, 71.7, 50.5, 78.6], "text": "DC"},
+   {"mm": [92.6, 60.0, 134.5, 71.5], "text": "Jot 7 0"},
+   {"mm": [97.2, 55.7, 119.8, 63.9], "text": "Cla ] €"},
+   {"mm": [212.7, 52.2, 238.6, 59.2], "text": "WBS"},
+   {"mm": [244.4, 52.9, 323.6, 59.4], "text": "WARD-BECK BYSTEMS"},
+   {"mm": [98.0, 46.4, 123.7, 56.5], "text": "0.R51"},
+   {"mm": [253.0, 36.7, 277.9, 43.7], "text": "M6 12A"},
+   {"mm": [213.1, 28.1, 320.8, 35.3], "text": "AUdio DistributioN AmpLifier"},
+   {"mm": [227.6, 20.3, 303.1, 27.7], "text": "PERSPECTIVE LAYOUT"},
+   {"mm": [214.8, 8.2, 262.3, 15.2], "text": "6 12-06-003"},
+   {"mm": [306.4, 8.6, 321.5, 15.6], "text": "ISS."}
+  ]
+ },
+ "title_block": {"mm": [205.8, 43.7, 330.5, 68.0], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK BYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 12-06-003, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 8–415 mm up",
+  "- **Outlines:** line 190 rings, 3,788 straight (6,055 mm) / 669 curved (789 mm); text 176 rings, 1,650 straight (1,870 mm) / 464 curved (545 mm); tb 3 rings, 88 straight (147 mm) / 12 curved (11.6 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (46.8, 104.6), r 1.8 @ (94.6, 99.2)",
+  "- **Words (OCR):** 22 in 18 lines: 7r0/ · M6TZA · TBS GAIN · k220 ( · TRim · NORM · Fza / · DC · Jot 7 0 · Cla ] € · WBS · WARD-BECK BYSTEMS",
+  "- **Title block:** (206, 44)–(330, 68) mm: WBS · WARD-BECK BYSTEMS"
+ ]
+}

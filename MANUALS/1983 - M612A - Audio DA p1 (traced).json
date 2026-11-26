@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 317.6, 426.8],
+ "outlines": {
+  "line": {"rings": 33, "straight": {"n": 602, "mm": 2974.7}, "curved": {"n": 65, "mm": 91.7}},
+  "text": {"rings": 168, "straight": {"n": 1836, "mm": 2517.9}, "curved": {"n": 410, "mm": 720.9}},
+  "tb": {"rings": 16, "straight": {"n": 143, "mm": 328.9}, "curved": {"n": 21, "mm": 22.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [123.3, 406.1, 289.1, 415.7], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [52.9, 397.3, 286.7, 411.2], "text": "WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAIO M1h2*4"},
+   {"mm": [122.2, 395.3, 175.5, 400.6], "text": "TELEX: 065-25399"},
+   {"mm": [211.2, 396.0, 286.7, 401.2], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [144.7, 234.9, 195.4, 249.5], "text": "M6 12A"},
+   {"mm": [110.1, 218.1, 232.3, 226.9], "text": "AuDio DISTRIBUTION AMPLIFIER"},
+   {"mm": [235.1, 44.3, 261.0, 50.7], "text": "MANUAL"},
+   {"mm": [264.3, 44.3, 283.0, 51.2], "text": "ISSUE"},
+   {"mm": [234.7, 30.2, 268.6, 37.2], "text": "JUNE 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [46.1, 35.6, 290.0, 424.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD",
+   "WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAIO M1h2*4",
+   "TELEX: 065-25399",
+   "TELEPHONE: 416/438-6550",
+   "M6 12A",
+   "AuDio DISTRIBUTION AMPLIFIER",
+   "MANUAL",
+   "ISSUE"
+  ]
+ },
+ "dots": [{"c": [8.6, 384.5], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 0–427 mm up",
+  "- **Outlines:** line 33 rings, 602 straight (2,975 mm) / 65 curved (91.7 mm); text 168 rings, 1,836 straight (2,518 mm) / 410 curved (721 mm); tb 16 rings, 143 straight (329 mm) / 21 curved (22.9 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 14 in 9 lines: WARD-BECK SYSTEMS LTD · WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAIO M1h2*4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550 · M6 12A · AuDio DISTRIBUTION AMPLIFIER · MANUAL · ISSUE · JUNE 1983",
+  "- **Title block:** (46, 36)–(290, 424) mm: WARD-BECK SYSTEMS LTD · WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAIO M1h2*4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550 · M6 12A · AuDio DISTRIBUTION AMPLIFIER · MANUAL · ISSUE"
+ ]
+}

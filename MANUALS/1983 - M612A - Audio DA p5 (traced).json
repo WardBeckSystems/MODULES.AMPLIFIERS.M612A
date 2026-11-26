@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 337.7, 426.4],
+ "outlines": {
+  "line": {"rings": 48, "straight": {"n": 910, "mm": 3328.0}, "curved": {"n": 139, "mm": 213.6}},
+  "text": {"rings": 273, "straight": {"n": 2149, "mm": 2538.7}, "curved": {"n": 629, "mm": 983.6}}
+ },
+ "circles": [{"c": [152.8, 311.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [33.5, 412.8, 151.6, 419.8], "text": "WAAD-BECK BybTemb LTD."},
+   {"mm": [145.1, 368.8, 202.9, 375.7], "text": "TECHNICAL DATA"},
+   {"mm": [107.3, 355.8, 151.6, 362.3], "text": "M612A AUDI0"},
+   {"mm": [153.5, 355.8, 202.3, 362.5], "text": "DISTRIBuTION"},
+   {"mm": [204.5, 355.8, 241.6, 362.8], "text": "AMPLIFIER"},
+   {"mm": [47.5, 321.7, 115.5, 328.2], "text": "Power Requirement:"},
+   {"mm": [140.8, 321.7, 165.6, 328.6], "text": "115V"},
+   {"mm": [168.8, 321.3, 228.0, 330.1], "text": "Ac +/-10%, 50/60"},
+   {"mm": [229.3, 320.6, 264.3, 329.7], "text": "Hz, 25VA."},
+   {"mm": [47.5, 308.3, 75.6, 314.8], "text": "Ambient"},
+   {"mm": [77.9, 307.4, 123.1, 315.1], "text": "Temperature:"},
+   {"mm": [157.8, 308.5, 165.4, 313.8], "text": "t0"},
+   {"mm": [167.8, 308.7, 176.4, 315.2], "text": "60"},
+   {"mm": [178.8, 307.4, 236.2, 315.6], "text": "degrees Celsius."},
+   {"mm": [47.7, 294.7, 88.3, 301.2], "text": "Dimensions:"},
+   {"mm": [149.6, 294.5, 192.6, 302.2], "text": "3.4\" wide"},
+   {"mm": [203.4, 293.8, 285.4, 302.2], "text": "3.4\" high 13.7\" deep"},
+   {"mm": [150.5, 288.2, 174.9, 295.2], "text": "(86 mm"},
+   {"mm": [186.1, 288.2, 207.9, 294.7], "text": "86 mm"},
+   {"mm": [218.9, 288.2, 230.8, 294.7], "text": "348"},
+   {"mm": [47.9, 273.8, 74.3, 281.2], "text": "Weight:"},
+   {"mm": [157.6, 274.6, 170.1, 281.1], "text": "Ibs"},
+   {"mm": [172.1, 273.8, 223.2, 281.6], "text": "(2.25 Kg) net ."},
+   {"mm": [169.5, 13.0, 180.9, 19.4], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 0–426 mm up",
+  "- **Outlines:** line 48 rings, 910 straight (3,328 mm) / 139 curved (214 mm); text 273 rings, 2,149 straight (2,539 mm) / 629 curved (984 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (152.8, 311.6)",
+  "- **Words (OCR):** 36 in 24 lines: WAAD-BECK BybTemb LTD. · TECHNICAL DATA · M612A AUDI0 · DISTRIBuTION · AMPLIFIER · Power Requirement: · 115V · Ac +/-10%, 50/60 · Hz, 25VA. · Ambient · Temperature: · t0"
+ ]
+}

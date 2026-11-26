@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 42,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p42.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "42", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [49.4, 8.6, 338.5, 268.4],
+ "outlines": {
+  "line": {"rings": 17, "straight": {"n": 436, "mm": 1243.2}, "curved": {"n": 51, "mm": 99.9}},
+  "text": {"rings": 72, "straight": {"n": 532, "mm": 661.2}, "curved": {"n": 185, "mm": 293.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [49.4, 184.8, 123.5, 268.4],
+   "w": 74.1,
+   "h": 83.6,
+   "from": "ring",
+   "words": ["300", "RI", "1/2w", "300", "R2", "1/2w", "300", "R3", "1/2w", "300", "RL", "1/2w", "300", "R5", "1/2w", "300", "R6", "12w"]
+  }
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [88.5, 259.5, 100.8, 266.0], "text": "300"},
+   {"mm": [71.7, 256.9, 80.3, 263.4], "text": "RI"},
+   {"mm": [86.4, 253.0, 103.0, 260.0], "text": "1/2w"},
+   {"mm": [55.5, 243.5, 80.7, 252.6], "text": "300 R2"},
+   {"mm": [53.3, 239.6, 69.5, 246.6], "text": "1/2w"},
+   {"mm": [88.5, 232.7, 100.8, 239.7], "text": "300"},
+   {"mm": [72.1, 230.8, 80.7, 236.1], "text": "R3"},
+   {"mm": [85.7, 226.3, 102.3, 233.2], "text": "1/2w"},
+   {"mm": [56.1, 216.8, 81.2, 225.4], "text": "300 RL"},
+   {"mm": [54.4, 212.7, 70.6, 219.1], "text": "1/2w"},
+   {"mm": [88.5, 205.5, 100.4, 212.0], "text": "300"},
+   {"mm": [72.8, 202.5, 81.4, 209.0], "text": "R5"},
+   {"mm": [86.8, 198.6, 103.4, 205.6], "text": "1/2w"},
+   {"mm": [56.6, 188.9, 81.8, 198.6], "text": "300 R6"},
+   {"mm": [54.4, 185.2, 70.6, 192.2], "text": "12w"},
+   {"mm": [323.2, 7.6, 336.6, 14.5], "text": "B14"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 49–338 mm across, 9–268 mm up",
+  "- **Outlines:** line 17 rings, 436 straight (1,243 mm) / 51 curved (99.9 mm); text 72 rings, 532 straight (661 mm) / 185 curved (294 mm)",
+  "- **Closed boxes:** 1; named: 300 RI 1/2w 300 R2 1/2w 300 R3 1/2w 300 ",
+  "- **Words (OCR):** 19 in 16 lines: 300 · RI · 1/2w · 300 R2 · 1/2w · 300 · R3 · 1/2w · 300 RL · 1/2w · 300 · R5"
+ ]
+}

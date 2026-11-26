@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 38,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p38.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "38", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 19.6, 311.1, 429.0],
+ "outlines": {
+  "line": {"rings": 79, "straight": {"n": 1100, "mm": 3364.8}, "curved": {"n": 172, "mm": 273.8}},
+  "text": {"rings": 63, "straight": {"n": 568, "mm": 690.6}, "curved": {"n": 166, "mm": 262.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [61.7, 413.7, 66.9, 418.2], "w": 5.2, "h": 4.5, "from": "ring"},
+  {"mm": [52.9, 415.0, 55.5, 417.1], "w": 2.6, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [88.5, 228.9, 182.0, 235.8], "text": "SA14-066 output SPLITTER"},
+   {"mm": [185.0, 228.4, 251.3, 235.4], "text": "NETWORK ASSEMBLY"},
+   {"mm": [244.4, 49.7, 264.5, 56.6], "text": "ISSUE"},
+   {"mm": [243.8, 36.3, 278.7, 43.2], "text": "JUNE 1983"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 20–429 mm up",
+  "- **Outlines:** line 79 rings, 1,100 straight (3,365 mm) / 172 curved (274 mm); text 63 rings, 568 straight (691 mm) / 166 curved (263 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 8 in 4 lines: SA14-066 output SPLITTER · NETWORK ASSEMBLY · ISSUE · JUNE 1983"
+ ]
+}

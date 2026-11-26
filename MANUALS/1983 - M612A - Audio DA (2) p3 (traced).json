@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 314.4, 429.4],
+ "outlines": {
+  "line": {"rings": 88, "straight": {"n": 1420, "mm": 3702.7}, "curved": {"n": 205, "mm": 345.3}},
+  "text": {"rings": 20, "straight": {"n": 150, "mm": 239.9}, "curved": {"n": 28, "mm": 48.2}}
+ },
+ "circles": [{"c": [178.1, 241.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [35.4, 416.7, 54.6, 422.2], "text": "WAR"},
+   {"mm": [71.5, 416.7, 142.3, 422.2], "text": "ECK YSTE MS LT"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–429 mm up",
+  "- **Outlines:** line 88 rings, 1,420 straight (3,703 mm) / 205 curved (345 mm); text 20 rings, 150 straight (240 mm) / 28 curved (48.2 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (178.1, 241.6)",
+  "- **Words (OCR):** 9 in 6 lines: WAR · ECK YSTE MS LT · ps · BS · tp · ht"
+ ]
+}

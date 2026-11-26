@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/SCHEMATICS/1983 - M612A - 066-06-001 - OUTPUT SPLITTER NETWORK COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/d0b2411dec15d3a4.svg",
+ "sheet": {
+  "number": "066-06-001",
+  "title": "Output Splitter Network Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [850, 1084],
+  "mm": [338.6, 431.8],
+  "mm_per_px": 0.39834
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.0, 333.0, 431.8],
+ "outlines": {
+  "line": {"rings": 67, "straight": {"n": 393, "mm": 676.2}, "curved": {"n": 95, "mm": 158.3}},
+  "text": {"rings": 102, "straight": {"n": 620, "mm": 1056.1}, "curved": {"n": 195, "mm": 404.8}},
+  "tb": {"rings": 2, "straight": {"n": 32, "mm": 143.5}, "curved": {"n": 6, "mm": 11.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [6.8, 223.5, 13.9, 229.4], "w": 7.2, "h": 6.0, "from": "ring"},
+  {"mm": [6.8, 209.9, 13.9, 215.6], "w": 7.2, "h": 5.7, "from": "ring"},
+  {"mm": [6.4, 196.8, 13.9, 202.0], "w": 7.6, "h": 5.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [220.3, 50.6, 332.6, 57.7], "text": "WBS WARD-BECK BySTEMB"},
+   {"mm": [257.7, 34.7, 292.0, 41.7], "text": "SA14-066"},
+   {"mm": [229.4, 26.3, 324.2, 36.0], "text": "output SpLitter Network"},
+   {"mm": [239.8, 18.3, 313.9, 28.1], "text": "COMPONENT LAYOUT"},
+   {"mm": [215.5, 6.8, 274.5, 13.9], "text": "B14-066-06-001"}
+  ]
+ },
+ "title_block": {"mm": [213.5, 42.0, 338.6, 66.4], "from": "title-block words (training set)", "text": ["WBS WARD-BECK BySTEMB"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 066-06-001, size B (assumed) 339 × 432 mm, 850 × 1084 px traced (0.398 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 8–432 mm up",
+  "- **Outlines:** line 67 rings, 393 straight (676 mm) / 95 curved (158 mm); text 102 rings, 620 straight (1,056 mm) / 195 curved (405 mm); tb 2 rings, 32 straight (144 mm) / 6 curved (11.5 mm)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 6 in 5 lines: WBS WARD-BECK BySTEMB · SA14-066 · output SpLitter Network · COMPONENT LAYOUT · B14-066-06-001",
+  "- **Title block:** (214, 42)–(339, 66) mm: WBS WARD-BECK BySTEMB"
+ ]
+}

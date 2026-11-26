@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/49c3110b130989e0-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 312.0, 427.9],
+ "outlines": {
+  "line": {"rings": 43, "straight": {"n": 872, "mm": 3066.5}, "curved": {"n": 87, "mm": 132.6}},
+  "text": {"rings": 70, "straight": {"n": 624, "mm": 829.0}, "curved": {"n": 152, "mm": 233.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [31.3, 415.0, 149.8, 422.3], "text": "WAAD-BECK sybtems LTD;"},
+   {"mm": [150.1, 237.1, 179.2, 244.0], "text": "SECTION"},
+   {"mm": [117.7, 223.5, 221.7, 230.4], "text": "MODULES AND SUB-ASSEMBL IES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–312 mm across, 0–428 mm up",
+  "- **Outlines:** line 43 rings, 872 straight (3,066 mm) / 87 curved (133 mm); text 70 rings, 624 straight (829 mm) / 152 curved (234 mm)",
+  "- **Words (OCR):** 7 in 3 lines: WAAD-BECK sybtems LTD; · SECTION · MODULES AND SUB-ASSEMBL IES"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M612A/MANUALS/1983 - M612A - Audio DA (2).pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/f46b038736afa8ab-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "43"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 4.0, 332.3, 429.6],
+ "outlines": {
+  "line": {"rings": 468, "straight": {"n": 4334, "mm": 6198.0}, "curved": {"n": 1095, "mm": 1538.8}},
+  "text": {"rings": 159, "straight": {"n": 946, "mm": 1164.9}, "curved": {"n": 249, "mm": 393.6}}
+ },
+ "circles": [
+  {"c": [62.3, 259.9], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [173.3, 201.8], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.8, 262.2], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [297.4, 19.6], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [62.4, 226.6, 65.6, 229.1], "w": 3.2, "h": 2.4, "from": "ring"},
+  {"mm": [38.9, 222.3, 42.1, 225.0], "w": 3.2, "h": 2.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [168.0, 245.3, 176.8, 257.0], "text": "eo;"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 45.6, 324.9, 65.5], "text": "BS .V.T_.."},
+   {"mm": [221.1, 47.7, 296.4, 55.6], "text": "was) WA\"D-_CK"},
+   {"mm": [247.0, 31.3, 275.3, 38.5], "text": "tp A,,4"},
+   {"mm": [226.3, 23.3, 316.5, 29.3], "text": "AUDIO AMPLIFIER \",SSEMBLY"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"},
+   {"mm": [233.6, 15.3, 309.0, 21.3], "text": "COMPONENT LAYOUT"},
+   {"mm": [220.4, 3.0, 226.9, 8.8], "text": "14"},
+   {"mm": [239.6, 3.0, 270.3, 8.8], "text": "5-011-0 01"},
+   {"mm": [315.0, 3.0, 325.6, 8.8], "text": "188"}
+  ]
+ },
+ "dots": [{"c": [73.4, 242.5], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–332 mm across, 4–430 mm up",
+  "- **Outlines:** line 468 rings, 4,334 straight (6,198 mm) / 1,095 curved (1,539 mm); text 159 rings, 946 straight (1,165 mm) / 249 curved (394 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.7 @ (62.3, 259.9), r 3.7 @ (173.3, 201.8), r 3.7 @ (172.8, 262.2), r 2.6 @ (297.4, 19.6)",
+  "- **Closed boxes:** 2",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 18 in 11 lines: eo; · ps · BS .V.T_.. · was) WA\"D-_CK · tp A,,4 · AUDIO AMPLIFIER \",SSEMBLY · ht · COMPONENT LAYOUT · 14 · 5-011-0 01 · 188"
+ ]
+}
