@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Title block:** (214, 42)–(339, 67) mm: WBS WARD-BECK byotemB
 - **Wiring (first pass):** 6 connected wire groups from 17 runs
 
-Every curve, box, word and wire group: [1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2014-066-02-001%20-%20OUTPUT%20SPLITTER%20NETWORK%20SCHEMATIC%20(traced).json) (the CAD file: `1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2014-066-02-001%20-%20OUTPUT%20SPLITTER%20NETWORK%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC (traced).dxf`).
 
 ## Full text
 

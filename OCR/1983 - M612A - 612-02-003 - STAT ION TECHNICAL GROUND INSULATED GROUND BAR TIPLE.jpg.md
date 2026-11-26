@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Words (OCR):** 86 in 71 lines: MULTIPLE UniT · WIRING · Within · mountiNG_FRAME · A1 outputs · P2-8 · iNPUT · of 12) · P2-16 AI · N/c · P2-7 · Pl-7
 - **Wiring (first pass):** 61 connected wire groups from 405 runs; labelled ends: 545 mm → PI-8, P1-8, Pz-?, P2-7; 410 mm → [LZ, P1-46, PL-?, P1-16; 406 mm → A2, [LZ, A3, PL-?; 376 mm → P2-7, PI-8, P1-8, Pz-?; 240 mm → P2-8, P2-16, P2-7, PI-8
 
-Every curve, box, word and wire group: [1983 - M612A - 612-02-003 - STAT ION TECHNICAL GROUND INSULATED GROUND BAR TIPLE (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-02-003%20-%20STAT%20ION%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20TIPLE%20(traced).json) (the CAD file: `1983 - M612A - 612-02-003 - STAT ION TECHNICAL GROUND INSULATED GROUND BAR TIPLE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 612-02-003 - STAT ION TECHNICAL GROUND INSULATED GROUND BAR TIPLE (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-02-003%20-%20STAT%20ION%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20TIPLE%20%28traced%29.json) (the CAD file: `1983 - M612A - 612-02-003 - STAT ION TECHNICAL GROUND INSULATED GROUND BAR TIPLE (traced).dxf`).
 
 ## Full text
 

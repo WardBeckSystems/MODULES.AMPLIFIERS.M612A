@@ -21,7 +21,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Words (OCR):** 43 in 43 lines: Pi-i · P1-2 · 5A1L-066 · PI-J · SPLiTteR · NETwoRK · PI-5 · P1-6 · Pz-1 · P2-2 · 541L-066 · Pz-J
 - **Wiring (first pass):** 33 connected wire groups from 102 runs; labelled ends: 57 mm → P2-6; 41 mm → PI-8; 34 mm → P1-6; 34 mm → P2-14; 34 mm → Pz-1
 
-Every curve, box, word and wire group: [1983 - M612A - 12-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-02-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1983 - M612A - 12-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 12-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-02-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1983 - M612A - 12-02-002 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

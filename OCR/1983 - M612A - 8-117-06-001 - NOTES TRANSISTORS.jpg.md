@@ -21,7 +21,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 47 lines: NOTES: · TRANSISTORS 0101 · oC · 0102 ARE · PN3646 _ · R1o1 · 1K 3W · 8 - 117 · DODES CR1O2 To CR · 1K3W OE · R102 · ARE INL148 _
 
-Every curve, box, word and wire group: [1983 - M612A - 8-117-06-001 - NOTES TRANSISTORS (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%208-117-06-001%20-%20NOTES%20TRANSISTORS%20(traced).json) (the CAD file: `1983 - M612A - 8-117-06-001 - NOTES TRANSISTORS (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 8-117-06-001 - NOTES TRANSISTORS (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%208-117-06-001%20-%20NOTES%20TRANSISTORS%20%28traced%29.json) (the CAD file: `1983 - M612A - 8-117-06-001 - NOTES TRANSISTORS (traced).dxf`).
 
 ## Full text
 

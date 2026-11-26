@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Words (OCR):** 30 in 29 lines: P2-8 · Nput · dBm · dBm · Jok onms · P2-16 · P2-15 · TrIm · Rzoi · CONTROL · R20z · CONTROL
 - **Wiring (first pass):** 47 connected wire groups from 160 runs; labelled ends: 278 mm → P2-8, P2-16; 132 mm → P2-7; 109 mm → R20z, Rz0}; 81 mm → R20z; 60 mm → Rz0}
 
-Every curve, box, word and wire group: [1983 - M612A - 612-02-002 - INDICATOR DRIVER (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-02-002%20-%20INDICATOR%20DRIVER%20(traced).json) (the CAD file: `1983 - M612A - 612-02-002 - INDICATOR DRIVER (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 612-02-002 - INDICATOR DRIVER (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-02-002%20-%20INDICATOR%20DRIVER%20%28traced%29.json) (the CAD file: `1983 - M612A - 612-02-002 - INDICATOR DRIVER (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Words (OCR):** 45 in 37 lines: (~6dB) · (~6dB) · ~6dB) · (~6dB) · MWV · (~6dB) · TRIM · +/-3dB · MWV · (~6dB) · iNPUT · -32 dBm To +14
 - **Wiring (first pass):** 76 connected wire groups from 136 runs; labelled ends: 627 mm → (~6dB), ~6dB), MWV, out; 81 mm → 38; 73 mm → 38, REF; 51 mm → dBm, PRE; 49 mm → out, BST
 
-Every curve, box, word and wire group: [1983 - M612A - 612-01-001 - OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-01-001%20-%20OVERLOAD%20REF%20NORMAL%20REF%20(traced).json) (the CAD file: `1983 - M612A - 612-01-001 - OVERLOAD REF NORMAL REF (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 612-01-001 - OVERLOAD REF NORMAL REF (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%20612-01-001%20-%20OVERLOAD%20REF%20NORMAL%20REF%20%28traced%29.json) (the CAD file: `1983 - M612A - 612-01-001 - OVERLOAD REF NORMAL REF (traced).dxf`).
 
 ## Full text
 

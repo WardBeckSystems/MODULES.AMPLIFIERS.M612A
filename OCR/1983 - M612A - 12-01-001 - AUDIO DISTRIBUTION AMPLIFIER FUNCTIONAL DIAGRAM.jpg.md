@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Title block:** (213, 39)–(338, 65) mm: WBS · WAAD-BECK BYBTEMB
 - **Wiring (first pass):** 44 connected wire groups from 95 runs; labelled ends: 529 mm → (-6dB), MWV, (~6dB), MNV; 229 mm → 12; 49 mm → (~6dB); 49 mm → MV, (~6dB); 49 mm → (~6dB)
 
-Every curve, box, word and wire group: [1983 - M612A - 12-01-001 - AUDIO DISTRIBUTION AMPLIFIER FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-01-001%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1983 - M612A - 12-01-001 - AUDIO DISTRIBUTION AMPLIFIER FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 12-01-001 - AUDIO DISTRIBUTION AMPLIFIER FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-01-001%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1983 - M612A - 12-01-001 - AUDIO DISTRIBUTION AMPLIFIER FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

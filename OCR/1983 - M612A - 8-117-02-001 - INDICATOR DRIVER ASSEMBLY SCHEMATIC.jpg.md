@@ -22,7 +22,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Title block:** (215, 40)–(338, 65) mm: WBS · WARD-BECk BysTeMB
 - **Wiring (first pass):** 21 connected wire groups from 136 runs; labelled ends: 238 mm → <riyk, SR8, R1I6, 22k; 102 mm → RUL, 47k; 74 mm → R12, IKB; 69 mm → RIIO,, Ik8, R12, IKB; 69 mm → SR8, R1I6, 22k
 
-Every curve, box, word and wire group: [1983 - M612A - 8-117-02-001 - INDICATOR DRIVER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%208-117-02-001%20-%20INDICATOR%20DRIVER%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1983 - M612A - 8-117-02-001 - INDICATOR DRIVER ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 8-117-02-001 - INDICATOR DRIVER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%208-117-02-001%20-%20INDICATOR%20DRIVER%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1983 - M612A - 8-117-02-001 - INDICATOR DRIVER ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

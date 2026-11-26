@@ -23,7 +23,7 @@ Wiki page: [M612A](../../../../PAGES/M612A.md)
 - **Title block:** (216, 8)–(338, 67) mm: WBS · WARD-BECK BybTemD · M6 12A · Audio Distribution AmpLiFIER · SYSTEMS WIRING · B6 12-02-003 · ISS.
 - **Wiring (first pass):** 22 connected wire groups from 194 runs; labelled ends: 610 mm → A2, PLZ, P1-16, PL-7; 434 mm → PLZ, P1-16, PL-Z, PL-16; 213 mm → A5, N/c; 212 mm → A4; 212 mm → A3, n/c
 
-Every curve, box, word and wire group: [1983 - M612A - 12-02-003 - BYBTEMD TECHNICAL GROUND (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-02-003%20-%20BYBTEMD%20TECHNICAL%20GROUND%20(traced).json) (the CAD file: `1983 - M612A - 12-02-003 - BYBTEMD TECHNICAL GROUND (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M612A - 12-02-003 - BYBTEMD TECHNICAL GROUND (traced).json](../SCHEMATICS/1983%20-%20M612A%20-%2012-02-003%20-%20BYBTEMD%20TECHNICAL%20GROUND%20%28traced%29.json) (the CAD file: `1983 - M612A - 12-02-003 - BYBTEMD TECHNICAL GROUND (traced).dxf`).
 
 ## Full text
 
