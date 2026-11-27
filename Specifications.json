@@ -1,0 +1,198 @@
+{
+ "module": "M612A",
+ "title": "M612A AUDIO DISTRIBUTION AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1983 - M612A - P004 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.99,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "+40 dB dB continuously variable with +/-3 dB trim (Bridging Gain).",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "dB"
+    },
+    {
+     "value": 3,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.2 dB 20 kHz",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "40 dB gain: unity gain: Greater than dB below dBm. 4' dBm 20 kHz bw) Greater than dB below (measured over 20 Hz",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.2% THD from 20 Hz 20 kHz up +24 dBm output level with 12 outputs simultaneously driven.",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "dBm +14 dBm nominal for dBm output, +24 dBm maximum at unity gain.",
+   "quantities": [
+    {
+     "value": 14,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30,000 ohms greater balanced",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms less, balanced unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Common mode rejection ratio",
+   "key": "common_mode_rejection_ratio",
+   "text": "Greater than 65 dB.",
+   "quantities": [
+    {
+     "value": 65,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Common mode voltage",
+   "key": "common_mode_voltage",
+   "text": "70v peak maximum.",
+   "quantities": [
+    {
+     "value": 70,
+     "unit": "v"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nominal +24 dBm maximum at each output, 12 outputs maximum.",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "600 ohms resistive actively balanced each output,",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced for each output",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output isolation",
+   "key": "output_isolation",
+   "text": "dB or greater"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number the input pair and the low terminal number the output pair are phase"
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1983 - M612A - Audio DA (2).pdf",
+   "page": 4
+  },
+  {
+   "file": "MANUALS/1983 - M612A - P005 - 1-2.jpg",
+   "page": 1
+  }
+ ]
+}

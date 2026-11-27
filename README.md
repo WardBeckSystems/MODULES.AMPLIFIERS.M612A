@@ -13,6 +13,211 @@ Ward-Beck Systems M612A, 1983|16. Wiki page: [M612A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 23 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 94 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1983 - M612A - P004 - 1-1.jpg](MANUALS/1983%20-%20M612A%20-%20P004%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | +40 dB dB continuously variable with +/-3 dB trim (Bridging Gain). |
+| **Frequency response** | +/-0.2 dB 20 kHz |
+| **Noise** | 40 dB gain: unity gain: Greater than dB below dBm. 4' dBm 20 kHz bw) Greater than dB below (measured over 20 Hz |
+| **Harmonic distortion** | Less than 0.2% THD from 20 Hz 20 kHz up +24 dBm output level with 12 outputs simultaneously driven. |
+| **Input level** | dBm +14 dBm nominal for dBm output, +24 dBm maximum at unity gain. |
+| **Input impedance** | 30,000 ohms greater balanced |
+| **Source impedance** | 600 ohms less, balanced unbalanced |
+| **Common mode rejection ratio** | Greater than 65 dB. |
+| **Common mode voltage** | 70v peak maximum. |
+| **Output level** | dBm nominal +24 dBm maximum at each output, 12 outputs maximum. |
+| **Output impedance** | 600 ohms resistive actively balanced each output, |
+| **Load impedance** | 600 ohms balanced for each output |
+| **Output isolation** | dB or greater |
+| **Phasing** | The low terminal number the input pair and the low terminal number the output pair are phase |
+
+## Circuit description
+
+From [1983 - M612A - Audio DA (2).pdf](MANUALS/1983%20-%20M612A%20-%20Audio%20DA%20(2).pdf) pages 21-26 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+SAI4-065 AUDIO AMPLIFIER ASSE M8 LY
+
+Thea u d io i n pu l tot h e SA14-065 Amplifier A~ sembl y appears e t pins 1 and 2 oft b e ass e mb l y connKlor. 1'1.2 and 1'1.3 determine the input impedance of I h e a Clive l y balanced inpul. Integrated circuits Ul and U2 with I heir assoc late d components makeup Ihe actlvely balanced preampli f ier. CR I through CR 4 are l i mil ing diodes which prOlec t thea mp l l fie r input from overloading voltage levels.
+
+1'1.8 and C5 set the balance between the two s&quot;,ctions of the p r &quot;,amp l ifl &quot;,r circuit. Thi,.. d ete......ine s t h &quot;, lon gitudl nlll balance o f m e input c irc u i l ryan d there j Kt ion to common mode signal vollage s.
+
+The preampl ifi er output appearing e t pin 8 of Ih e 8 s se mb ly conneclor f.... d son.. half o f the dual gain cont r o i (R202 and 1'1.203). There turn feedback P lli h from 1'1.20 2 appear ll III pin 7 oft he assembly connKlor. The prea mpl1fi er out p u l also conn ecls t o Ihe Trim l e v &quot;,1 control 1'1.201. There i urn path from R201 app e a ring al pin 9 of I h e assembly conn ectercoupl e s through C9 tot h e inpul of booster amp l if ie r U3.
+
+The output of U3 115 coupled 10 the power amp l i fie r output sl age through C12. I t also feeds the sKond half oft he dual gain c onl ro l 1'1.203. There l urn feed back path from R203 appears atp in 10 oft h e assembly conn eClor.
+
+Th '&quot; actively balanced power OUlpu t stage Is made up oft wo amplifiers. In tegraled cir&lt;uil U4 along w ilh 0 1 t h rough a5 makeup the lower half oft h e power OUlpu tamp l i fie r, while U5 along wilh 0 6 t h r o u g n 01 0 mak '&quot; upI n e upper n ai f.
+
+The ou tpu l capability oft his power amplifier i sin excess of 2 1{2 watt &quot; lind appea &quot; '&quot; a t pins 18 and 19 o f Ihe ass e mb l y conn ec lor.
+
+The output from Ihi s amp l if i e r drives the 600 ohms p litter n&quot;, two rks located on the SAI 4_066 assemblies.
+
+Off set adj us l cont r o ls 1'1.2 3 and 1'1.41 are used 10 trim off sel voltage
+
+errors at the amplifier o u tpul 10 eer-c •
+
+**SAI 4 -06 5**
+
+SA 1 4-06~ AUDIO AMPLIFIER ASSEMBLY
+
+The powers u p ply, int eg r alto the SA14-065 assembly derives liS ec vol l&quot;ge l &quot; pp e &quot; rl n g atp ins 2 1 and 22 of I h e assembly connector) from I h4:I e&gt;&lt;lerna l power Ir &quot; n sf o rme r T201 mo&lt;J&quot; ted 0I'l the chan ls of lhe M61V,.
+
+Bridger ec l i fie r CR~ a lO&lt;'lg w l l h C31 and C32 ~t i fie s a&quot; d filters Ih eec volta g e provld l&quot;S1 a &quot;om, &quot;at +/ -32 vol l de OUlpu t. These voltage s drive the power OUlput stage of l he SAl 4-065 directly, a swell a s &lt;IIppearing &lt;lit connector p,n s 15 and 16 fort he purpose of power l&quot;g thee.. le.....al SA.8-111 In dica torDriver Assembly.
+
+The +/ -32 vc f t de vol lag es are f u rlhe r decovpled a&quot;d filler ed b y 0 1 I Ihrough 0 14 a&quot;d C3 l Ih rough C36. This provides +/-21 vo l! deregulated supply voltages to opera Ie l he i &quot; le grated c lrcui l amplifiers of Ihe SAI III_065 amplifier &lt;II ssembly.
+
+**SAI4 _065 AUDIO AMPLIFIER ASSEMBLY**
+
+DESCRIPTION MFG PART NUMBER
+
+cr Ca ~~,,;ltor ISO uF /l0 V Kernel TJ9QE157MOIOAS C2 ISO u F/ to V CJ 117pF Ph ~,li ~ 5 2222 _638_3 &quot;79 C' 2.2 p F 2222 _638 _09228 C, (Va r i able Cap) 2-18 pF 22 22_809_0S003
+
+C, C a p~ cl l or 117 pF 2222-638-3&quot;79 C1 JJ..uF/ 16 V Kernel TJ9003J6M016AS
+
+6.8 pF 33 u F/ 16 V K_, Philips 2222-638-09688
+
+**TJ9003J6MOI6AS**
+
+W 117 pF Ph~!;ps 2222-638-341179 C&quot; 100 pF 2222-638-58101 c te 12 pF 2222-638-1 0129
+
+C&quot; •. 7pF 2222-638..(19478 m 15 pF 2222-638_1 0159
+
+c rs 22 pF 22 u F/l5 V K_, 2222-638-10229
+
+**TJ9OE226M03SAS**
+
+C20 22 pF Philips 2222-638-10229
+
+0.02 2 uF 33 uF/ 10 V K_, ese reo CQ92-MCIOD-22JM
+
+**T3900 3J6M0 IOAS**
+
+C2J 100 ~F Ph:,l i p,. 2222-638_581 01 m 8.2 pF 2222-638-09828 C25 11.7 pF 2222 -638-09478
+
+C26 15 pF 2222-638-10159 C21 68,F 2222-638-52689 C28 22 uF /35 V Kemel T39OE226M035AS C29 22pF 2222 _638_ 10229 CJ« 0.022uF::~:~~s CQ92_MC_lOO_22JM
+
+CJ&lt; 47~, uF / 40 V Ph:,I; pS
+
+en 47 u F/ 25 V 47/2585 200
+
+CJ' 47 uF/25 V
+
+C&quot; 22 u F/25 V 25/2 5 852 00
+
+**5&quot;14-065 AUDIO AMPLIFIER ASSEMBLY**
+
+DESCRIPTION MFG PART NUMBER CJ' C ap~C: lt o.. 22 vF !25 V Si....... ns 22/2585200
+
+70 Diode
+
+cas 8.. ldg e Rectifi e.. EO ' PD40 CR' Diode, Zom.... 51V Motorola IN47578
+
+0' T&quot;a n s isl or National PNl569 0' TN4037 0' PNl569 0' Tl P29B OS TlP308 Q6 PNl569 07 TN4017 0' PNl569 0' TIP29B 0 &gt;0 TIP3Q8
+
+0&quot; TN2102 0&quot; TI&lt;I4037 0&quot; TI&lt;I2 102 0&quot; 1 1&lt;14017
+
+Resi sto.. 1! 4W 5%
+
+220K Philips
+
+**130K**
+
+RS ' lO K
+
+**R' '0**
+
+R7 Resistor 1! 4W I S SK' R, Trim Pot Pih....
+
+&quot; 10tl12.51 'K
+
+R, R..sis lor 1!4W I S &quot;7 Philips
+
+&quot;,0 R..sls lor 1!4W 5S &gt;2K
+
+**R&quot; II OK**
+
+R&quot; m
+
+**R&quot; &quot; K**
+
+WAR C - BECKS YST EMS LTC.
+
+SAI 4-065 AUDIO AMPLIFIER ASSEMBLY
+
+DESCRIPTION MFG PART NUMBER
+
+RIS Resistor l ! lAW 51
+
+**180K**
+
+Ph i lip5
+
+RlJ Trim POI Res ls lor l ! 4W 51
+
+:;OK Pihe r Philips PT lOt&gt; {2.51 50K
+
+**R&gt;8 22**
+
+Resistor lW 51
+
+Resistor 1!4W 51
+
+Philips RS_I !2 l K2
+
+on Resistor 1/2W 51 a.a RJ&lt; a.a
+
+RJ&lt;; Resistor 1! 4W 51 22
+
+Trim Pot
+
+R&quot; Pi her P T 10h (2.5):;OK R&quot; Resistor 1!4W 51 &gt;SK Philips
+
+**R&quot; 22K**
+
+Re5 15l or lW 51.. a RS_l/2.. z
+
+Roe.. aRe si st or 1/4W5S
+
+R&quot; 2K1 Philips
+
+5,1,14_ 065
+
+**SAI4-065 AUDIO AMPLIFIER ASSEMBLY**
+
+DESCRIPTION MFG PART NUMBER
+
+R'&quot; Resistor 1!4W 5% &quot;K P h~/;P S R&quot; Resistor 1!2W 5% 2.2
+
+**R&gt;3 2.2**
+
+Resistor 1! 4W
+
+Resistor 1!4W 5% 5' 22
+
+**R58 22 K**
+
+R59 Resistor 1! 2W 5' 220
+
+U' Inte,~r ~ted CircuitS i~,ne tics
+
+SOCKETS AND MISCELLANEOUS COMPONENTS
+
+U l,U 2, U3 U4,U S 8Pin Dip Socket
+
+04, 05, 0 9,
+
+was recommends the use o f rep l ~cemen t parts made by the specified manufacturers for continued optimum equipment performance.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
