@@ -1,5 +1,5 @@
 # 1983 - M612A - P001 - Title Page.jpg
-Wiki page: [M612A](../../../../PAGES/M612A.md)
+Wiki page: [M612A](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE #L JUNE 1983")

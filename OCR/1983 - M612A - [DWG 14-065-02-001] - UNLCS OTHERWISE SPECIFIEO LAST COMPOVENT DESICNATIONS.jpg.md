@@ -1,5 +1,5 @@
 # 1983 - M612A - 14-065-02-001 - UNLCS OTHERWISE SPECIFIEO LAST COMPOVENT DESICNATIONS.jpg
-Wiki page: [M612A](../../../../PAGES/M612A.md)
+Wiki page: [M612A](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

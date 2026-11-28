@@ -1,5 +1,5 @@
 # 1983 - M612A - 14-066-02-001 - OUTPUT SPLITTER NETWORK SCHEMATIC.jpg
-Wiki page: [M612A](../../../../PAGES/M612A.md)
+Wiki page: [M612A](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))
